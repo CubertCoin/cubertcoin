@@ -28,14 +28,12 @@ Build the largest community of Corporate Survivors on the internet.
 - Discord
 - Telegram (Coming Soon)
 
-## Slogan
-
-Another Meeting. Another Token.
-
 ---
 
-## Corporate Disclaimer
+## Corporate Notice
 
 Cubert Coin is a community-driven project focused on corporate culture, humor, and shared workplace experiences.
 
-Proof of Burnout.
+---
+
+Another Meeting. Another Token.
