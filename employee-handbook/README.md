@@ -64,6 +64,100 @@ Cubert Coin is a community project designed to grow responsibly.
 
 ---
 
+## Community Structure
+
+Every Corporate Survivor has a place at Cubert Coin.
+
+Our community is built around professionals from every level of corporate life.
+
+### Intern
+
+Learning the ropes.
+
+### Analyst
+
+Delivering reports and surviving deadlines.
+
+### Senior Analyst
+
+Trusted with more spreadsheets than any human should manage.
+
+### Manager
+
+Responsible for meetings.
+
+Too many meetings.
+
+### Director
+
+Strategic thinker.
+
+Professional PowerPoint survivor.
+
+### Executive
+
+Has attended meetings about meetings.
+
+---
+
+## Corporate Funds
+
+To ensure the long-term sustainability of the project, Cubert Coin maintains dedicated corporate funds.
+
+### Corporate Operations Pool
+
+Keeps the cubicles running.
+
+Supports market operations and liquidity.
+
+### Proof of Burnout Fund
+
+Dedicated to community growth, rewards, events, and engagement.
+
+### Corporate Growth Fund
+
+Supports marketing initiatives, partnerships, and expansion.
+
+### Employee Stock Plan
+
+Aligns contributors with the long-term success of the project.
+
+### Corporate Treasury
+
+Reserved for future development and strategic opportunities.
+
+---
+
+## Career Path
+
+The Cubert Coin roadmap follows a corporate career ladder.
+
+### Intern
+
+Project launch.
+
+### Analyst
+
+Community growth.
+
+### Senior Analyst
+
+Expanded ecosystem and partnerships.
+
+### Manager
+
+Additional utilities and community programs.
+
+### Director
+
+Governance initiatives.
+
+### Executive
+
+Global expansion of the Corporate Survivors movement.
+
+---
+
 ## Tokenomics
 
 Coming Soon.
