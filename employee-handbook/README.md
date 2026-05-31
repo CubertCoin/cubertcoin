@@ -128,6 +128,14 @@ Reserved for future development and strategic opportunities.
 
 ---
 
+## Tokenomics
+
+Details will be announced in a future employee update.
+
+Stay productive.
+
+---
+
 ## Career Path
 
 The Cubert Coin roadmap follows a corporate career ladder.
@@ -155,18 +163,6 @@ Governance initiatives.
 ### Executive
 
 Global expansion of the Corporate Survivors movement.
-
----
-
-## Tokenomics
-
-Coming Soon.
-
----
-
-## Roadmap
-
-Coming Soon.
 
 ---
 
