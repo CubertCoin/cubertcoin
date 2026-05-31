@@ -1,16 +1,28 @@
-## Hi there 👋
+Cubert Coin
+Proof of Burnout
 
-<!--
-**CubertCoin/cubertcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The first cryptocurrency built for Corporate Survivors.
 
-Here are some ideas to get you started:
+Cubert represents millions of professionals surviving meetings, spreadsheets, KPIs, deadlines, and performance reviews.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mission
+
+Build the largest community of Corporate Survivors on the internet.
+
+Core Documents
+Brand Book
+Employee Handbook
+Roadmap
+Official Channels
+X / Twitter (Coming Soon)
+Discord
+Telegram (Coming Soon)
+Slogan
+
+Another Meeting. Another Token.
+
+Corporate Disclaimer
+
+Cubert Coin is a community-driven project focused on corporate culture, humor, and shared workplace experiences.
+
+Proof of Burnout.
