@@ -1,27 +1,40 @@
-Cubert Coin
-Proof of Burnout
+# Cubert Coin
+
+## Proof of Burnout
+
+Cubert created this coin during a meeting that should have been an email.
+
+Nobody noticed.
 
 The first cryptocurrency built for Corporate Survivors.
 
-Cubert represents millions of professionals surviving meetings, spreadsheets, KPIs, deadlines, and performance reviews.
+Millions of professionals survive meetings, spreadsheets, KPIs, deadlines, and performance reviews every day.
 
-Mission
+Cubert is one of them.
+
+## Mission
 
 Build the largest community of Corporate Survivors on the internet.
 
-Core Documents
-Brand Book
-Employee Handbook
-Roadmap
-Official Channels
-X / Twitter (Coming Soon)
-Discord
-Telegram (Coming Soon)
-Slogan
+## Core Documents
+
+- Brand Book
+- Employee Handbook
+- Roadmap
+
+## Official Channels
+
+- X / Twitter (Coming Soon)
+- Discord
+- Telegram (Coming Soon)
+
+## Slogan
 
 Another Meeting. Another Token.
 
-Corporate Disclaimer
+---
+
+## Corporate Disclaimer
 
 Cubert Coin is a community-driven project focused on corporate culture, humor, and shared workplace experiences.
 
