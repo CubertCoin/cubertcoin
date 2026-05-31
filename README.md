@@ -26,7 +26,7 @@ Build the largest community of Corporate Survivors on the internet.
 
 - X / Twitter → [@CubertCoin](https://x.com/cubertcoin)
 - Instagram → [@CubertCoin](https://www.instagram.com/cubertcoin)
-- Discord → [@CubertCoin] 
+- Discord → [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz)
 - Telegram (Coming Soon)
 
 ---
