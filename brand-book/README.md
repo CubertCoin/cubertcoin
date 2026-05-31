@@ -1,16 +1,16 @@
-#Cubert Brand Book
-##Identity
+# Cubert Brand Book
+## Identity
 
-Character
+**Character**
 Cubert
 
-Tagline
+**Tagline**
 Proof of Burnout
 
-Mission
+**Mission**
 Build the largest community of Corporate Survivors on the internet.
 
-Official Colors
+## Official Colors
 Name	HEX
 Corporate Navy	#041A36
 Cubert Blue	#235674
@@ -18,13 +18,13 @@ Deep Shadow	#020C12
 Cubert Skin	#E3A469
 Cubert Hair	#4A2D12
 Office White	#E6E5E2
-Logo
+## Logo
 
-Primary Logo
+**Primary Logo**
 Hexagon + Cubert
 
-Secondary Logo
+**Secondary Logo**
 Cubert Coin Wordmark
 
-Icon
+**Icon**
 Hexagon + Cubert
