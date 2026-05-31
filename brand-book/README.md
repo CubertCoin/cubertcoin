@@ -21,10 +21,13 @@ Office White	#E6E5E2
 ## Logo
 
 **Primary Logo**
+
 Hexagon + Cubert
 
 **Secondary Logo**
+
 Cubert Coin Wordmark
 
 **Icon**
+
 Hexagon + Cubert
