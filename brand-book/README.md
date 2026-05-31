@@ -21,14 +21,14 @@ Build the largest community of Corporate Survivors on the internet.
 | Office White | #E6E5E2 |
 ## Logo
 
-**Primary Logo**
+### Primary Logo
 
 Hexagon + Cubert
 
-**Secondary Logo**
+### Secondary Logo
 
 Cubert Coin Wordmark
 
-**Icon**
+### Icon
 
 Hexagon + Cubert
