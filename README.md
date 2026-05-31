@@ -24,7 +24,7 @@ Build the largest community of Corporate Survivors on the internet.
 
 ## Official Channels
 
-- X / Twitter (Coming Soon)
+- X / Twitter → [@CubertCoin]((https://x.com/cubertcoin))
 - Discord
 - Telegram (Coming Soon)
 
