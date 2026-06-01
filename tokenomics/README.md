@@ -17,7 +17,7 @@ No transaction taxes.
 | Item | Value |
 |--------|--------|
 | Token Name | Cubert Coin |
-| Symbol | CUBERT |
+| Symbol | $CUBE |
 | Blockchain | Solana |
 | Total Supply | 1,000,000,000 |
 | Buy Tax | 0% |
