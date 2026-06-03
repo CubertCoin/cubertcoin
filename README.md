@@ -24,10 +24,12 @@ Build the largest community of Corporate Survivors on the internet.
 
 ## Official Channels
 
-- X / Twitter → [@CubertCoin](https://x.com/cubertcoin)
-- Instagram → [@CubertCoin](https://www.instagram.com/cubertcoin)
-- Discord → [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz)
-- Telegram (Coming Soon)
+- 🌐 Website → [Corporate Intranet](https://www.cubertcoin.com)
+- 🐦 X / Twitter → [Corporate Broadcast System](https://x.com/cubertcoin)
+- 💬 Discord → [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz)
+- 📢 Telegram → [Corporate Hotline](https://www.t.me/cubertcoin)
+- 👽 Reddit → [Employee Forum](https://reddit.com/r/CubertCoin)
+- 📸 Instagram → [Corporate Gallery](https://www.instagram.com/cubertcoin)
 
 ---
 
