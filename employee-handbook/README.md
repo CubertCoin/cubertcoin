@@ -1,6 +1,15 @@
+<p align="center"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
+</p> 
+
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p>
+
 # Employee Handbook
 
-## Welcome to Cubert Coin
+**Welcome to Cubert Coin**
 
 Welcome aboard.
 
@@ -8,7 +17,7 @@ If you are reading this, you have probably survived at least one meeting that sh
 
 You are qualified.
 
----
+Your employee badge has been approved.
 
 ## The Origin Story
 
@@ -18,13 +27,13 @@ Nobody noticed.
 
 What started as a joke became a community for millions of professionals navigating spreadsheets, KPIs, deadlines, performance reviews, and unnecessary meetings.
 
----
+Today, Cubert Coin represents Corporate Survivors everywhere.
 
 ## Our Mission
 
 Build the largest community of Corporate Survivors on the internet.
 
----
+Turn burnout into belonging.
 
 ## What is Proof of Burnout?
 
@@ -41,8 +50,6 @@ Every deadline.
 Every meeting.
 
 You earned it.
-
----
 
 ## Core Values
 
@@ -62,7 +69,25 @@ If we cannot laugh at corporate life, we become corporate life.
 
 Cubert Coin is a community project designed to grow responsibly.
 
----
+## Employee Expectations
+
+**All employees are encouraged to:**
+-	Support fellow Corporate Survivors
+-	Participate in community discussions
+-	Share ideas and feedback
+-	Maintain a healthy level of workplace sarcasm
+-	Report excessive meeting exposure when necessary
+
+## Corporate Benefits
+
+**All employees receive:**
+-	Access to Corporate HQ
+-	Access to the Employee Forum
+-	Community participation rights
+-	Unlimited emotional support from other survivors
+-	Recognition through Career Progression
+  
+**Coffee not included.**
 
 ## Community Structure
 
@@ -84,21 +109,15 @@ Trusted with more spreadsheets than any human should manage.
 
 ### Manager
 
-Responsible for meetings.
-
-Too many meetings.
+Responsible for meetings. Too many meetings.
 
 ### Director
 
-Strategic thinker.
-
-Professional PowerPoint survivor.
+Strategic thinker. Professional PowerPoint survivor.
 
 ### Executive
 
 Has attended meetings about meetings.
-
----
 
 ## Corporate Funds
 
@@ -126,15 +145,13 @@ Aligns contributors with the long-term success of the project.
 
 Reserved for future development and strategic opportunities.
 
----
+## Financial Allocation Memorandum
 
-## Tokenomics
+Detailed allocation figures are maintained within the official Tokenomics documentation.
 
-Details will be announced in a future employee update.
+Employees are encouraged to review the latest corporate filings.
 
 Stay productive.
-
----
 
 ## Career Path
 
@@ -142,30 +159,61 @@ The Cubert Coin roadmap follows a corporate career ladder.
 
 ### Intern
 
-Project launch.
-
+- Built the identity.
+- Filed the paperwork.
+- Survived onboarding.
+  
 ### Analyst
 
-Community growth.
+- Liquidity secured.
+- Community expanding.
+- Corporate operations underway.
 
 ### Senior Analyst
 
-Expanded ecosystem and partnerships.
+- Strategic partnerships.
+- Expanded ecosystem.
+- Department growth.
 
 ### Manager
 
-Additional utilities and community programs.
+- Community initiatives.
+- Governance preparation.
+- New utilities.
 
 ### Director
 
-Governance initiatives.
+- Global expansion.
+- Corporate Survivor adoption.
+- Strategic leadership.
 
 ### Executive
 
-Global expansion of the Corporate Survivors movement.
+- The cubicle goes public.
+- IPO vibes.
 
----
+## Corporate Notice
+
+Cubert Coin is a community-driven project focused on corporate culture, workplace humor, and shared experiences.
+
+This handbook does not constitute financial advice.
+
+It does constitute emotional support.
 
 ## Final Note
+
+**Remember:**
+
+The meeting could have been an email.
+
+The spreadsheet could have been automated.
+
+The KPI could have been arbitrary.
+
+But you survived.
+
+**Proof of Burnout.**
+
+---
 
 Another Meeting. Another Token.
