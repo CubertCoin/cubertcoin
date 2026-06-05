@@ -121,10 +121,6 @@ Has attended meetings about meetings.
 
 ## Corporate Funds
 
-To ensure the long-term sustainability of the project, Cubert Coin maintains dedicated corporate funds.
-
-## Corporate Funds
-
 To ensure the long-term sustainability of the project, Cubert Coin maintains four dedicated corporate funds.
 
 ### Liquidity Pool
