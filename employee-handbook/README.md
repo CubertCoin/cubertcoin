@@ -123,31 +123,39 @@ Has attended meetings about meetings.
 
 To ensure the long-term sustainability of the project, Cubert Coin maintains dedicated corporate funds.
 
-### Corporate Operations Pool
+## Corporate Funds
 
-Keeps the cubicles running.
+To ensure the long-term sustainability of the project, Cubert Coin maintains four dedicated corporate funds.
 
-Supports market operations and liquidity.
+### Liquidity Pool
 
-### Proof of Burnout Fund
+Provides market liquidity and supports healthy trading conditions.
 
-Dedicated to community growth, rewards, events, and engagement.
-
-### Corporate Growth Fund
-
-Supports marketing initiatives, partnerships, and expansion.
-
-### Employee Stock Plan
-
-Aligns contributors with the long-term success of the project.
+Liquidity is locked at launch.
 
 ### Corporate Treasury
 
-Reserved for future development and strategic opportunities.
+Reserved for future development, operations, and strategic opportunities.
+
+Managed through multi-signature controls.
+
+### Community Growth Fund
+
+Dedicated to community initiatives, events, partnerships, and ecosystem growth.
+
+Built to support the long-term expansion of the Corporate Survivors movement.
+
+### Team Allocation
+
+Allocated to contributors helping build and maintain the Cubert Coin ecosystem.
+
+Structured to encourage long-term commitment and sustainable development.
+
+For detailed allocation percentages, lock periods, and vesting schedules, employees should refer to the official Tokenomics documentation.
 
 ## Financial Allocation Memorandum
 
-Detailed allocation figures are maintained within the official Tokenomics documentation.
+The Cubert Coin token allocation framework is designed to prioritize long-term sustainability, transparency, and community growth.
 
 Employees are encouraged to review the latest corporate filings.
 
