@@ -1,16 +1,21 @@
-# Cubert Coin Tokenomics
+<p align="center"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
+</p> 
 
-## Proof of Burnout
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p>
 
-The Cubert Coin economy is designed around transparency, sustainability, and long-term community growth.
+# Financial Allocation Memorandum
+
+The Cubert Coin token allocation framework is designed to prioritize long-term sustainability, transparency, and community growth.
 
 No hidden allocations.
 
 No excessive team ownership.
 
 No transaction taxes.
-
----
 
 ## Token Information
 
@@ -23,8 +28,6 @@ No transaction taxes.
 | Buy Tax | 0% |
 | Sell Tax | 0% |
 
----
-
 ## Token Allocation
 
 | Allocation | Percentage |
@@ -34,56 +37,52 @@ No transaction taxes.
 | Community Growth Fund | 10% |
 | Team Allocation | 5% |
 
----
-
 ## Liquidity Pool
 
-70% of the total supply is allocated to liquidity.
+70% of the total supply is allocated to provide trading liquidity and market stability.
 
-The objective is to provide healthy market conditions and support long-term trading activity.
+### Status
 
-Liquidity will be locked after launch.
-
----
+- Locked at launch
+- No early withdrawal mechanism
+- Designed to support long-term market confidence
 
 ## Corporate Treasury
 
-15% of the total supply is allocated to the Corporate Treasury.
+15% of the total supply is reserved for future operations, development, and strategic opportunities.
 
-The treasury supports future strategic initiatives, ecosystem growth, partnerships, development, and operational needs.
+### Governance
 
-Treasury wallets will be publicly disclosed.
-
----
+- Multi-signature controlled
+- Transparent usage
+- Long-term project sustainability focus
 
 ## Community Growth Fund
 
-10% of the total supply is allocated to community growth.
+10% of the total supply is dedicated to expanding the Corporate Survivors ecosystem.
 
-This allocation may be used for:
+### Usage
 
-- Meme contests
-- Community rewards
-- Giveaways
-- Marketing campaigns
-- Corporate Survivor initiatives
+- Community campaigns
+- Events and contests
+- Strategic partnerships
+- Ecosystem expansion
 
 The goal is to reward participation and strengthen the Cubert Coin ecosystem.
 
----
-
 ## Team Allocation
 
-5% of the total supply is allocated to the team.
-
-This allocation is subject to:
+5% of the total supply is allocated to contributors building the Cubert Coin ecosystem.
 
 - 6-month lock period
 - 12-month vesting schedule
+- No immediate access at launch
 
-The objective is to align contributors with the long-term success of the project.
+Like an unpaid internship, rewards arrive slowly.
 
----
+### Purpose
+
+Designed to align contributors with the long-term success of the project.
 
 ## Transparency
 
@@ -91,16 +90,13 @@ Cubert Coin is committed to transparency.
 
 Treasury wallets, team wallets, and liquidity information will be disclosed to the community whenever applicable.
 
----
+## Guiding Principles
+
+- Transparency
+- Long-Term Alignment
+- Sustainable Growth
+- Community First
 
 ## Final Note
 
-Every spreadsheet.
-
-Every KPI.
-
-Every deadline.
-
-Every meeting.
-
-Proof of Burnout.
+**Proof of Burnout.**
