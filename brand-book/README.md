@@ -99,12 +99,12 @@ Cubert
 -	Unrealistic claims
 
 ## Official Channels
-- 🌐 Corporate Intranet
--	🐦 Corporate Broadcast System
--	💬 Corporate Survivors HQ
--	📢 Corporate Hotline
--	👽 Employee Forum
--	📸 Corporate Gallery
+- 🌐 Website → [Corporate Intranet](https://www.cubertcoin.com)
+- 🐦 X / Twitter → [Corporate Broadcast System](https://x.com/cubertcoin)
+- 💬 Discord → [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz)
+- 📢 Telegram → [Corporate Hotline](https://www.t.me/cubertcoin)
+- 👽 Reddit → [Employee Forum](https://reddit.com/r/CubertCoin)
+- 📸 Instagram → [Corporate Gallery](https://www.instagram.com/cubertcoin)
 
 ## Brand Statement
 Cubert Coin is not just another cryptocurrency.
