@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="media-kit/logos/cubert-coin-primary.png" width="220"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
 </p> 
 
 <h3 align="center">Proof of Burnout.</h3> 
