@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="URL_DA_LOGO" width="180">
-</p>
+<p align="center"> 
+  <img src="media-kit/logos/cubert-coin-primary.png" width="220"> 
+</p> 
 
-<h1 align="center">Cubert Coin</h1>
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p> 
 
-<p align="center">
-Proof of Burnout.
-</p>
+---
 
 Cubert created this coin during a meeting that should have been an email.
 
@@ -24,12 +25,12 @@ Current Position: Analyst
 
 Career Progression
 
-Intern ✅
-Analyst 🟡
-Senior Analyst ⚪
-Manager ⚪
-Director ⚪
-Executive ⚪
+- Intern ✅
+- Analyst 🟡
+- Senior Analyst ⚪
+- Manager ⚪
+- Director ⚪
+- Executive ⚪
 
 ## Mission
 
