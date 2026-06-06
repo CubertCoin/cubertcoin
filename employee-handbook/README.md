@@ -216,8 +216,8 @@ The KPI could have been arbitrary.
 
 But you survived.
 
-**Proof of Burnout.**
-
 ---
 
-Another Meeting. Another Token.
+**Proof of Burnout.**
+
+*Another Meeting. Another Token.*
