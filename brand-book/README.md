@@ -130,3 +130,9 @@ It is a badge of honor for everyone who has ever survived a pointless meeting, a
 -	Discord Banner
 -	X Banner
 
+--- 
+
+**Proof of Burnout.**
+
+*Another Meeting. Another Token.*
+
