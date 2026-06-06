@@ -97,7 +97,23 @@ Treasury wallets, team wallets, and liquidity information will be disclosed to t
 - Sustainable Growth
 - Community First
 
-## Final Note
+## Corporate Disclaimer
+
+Cubert Coin was created during a meeting that should have been an email.
+
+While the project is built for Corporate Survivors, participation remains entirely voluntary and at your own risk.
+
+Cryptocurrency markets are volatile. Token prices may go up, down, sideways, or spend several quarters preparing a PowerPoint presentation about future performance.
+
+Nothing contained within this document constitutes financial, legal, tax, or investment advice.
+
+Always conduct your own research.
+
+Past performance does not guarantee future results.
+
+Neither Cubert nor the Corporate Survivors Department can guarantee profits, promotions, bonuses, or fewer meetings.
+
+--- 
 
 **Proof of Burnout.**
 
