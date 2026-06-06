@@ -1,20 +1,55 @@
-# Cubert Coin Media Kit
+<p align="center"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
+</p> 
 
-## Brand Assets
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p>
 
-Official resources for partners, media outlets, creators, and community members.
+# Media Kit
 
----
+## About
+
+The Cubert Coin Media Kit contains official brand assets for partners, community members, creators, media outlets, and Corporate Survivors worldwide.
+
+Please use official assets whenever possible to maintain brand consistency.
 
 ## Logo Assets
 
-Coming Soon.
+### Primary Logo
 
-- Primary Logo
-- Icon Logo
-- Wordmark
+Hexagon + Cubert + Wordmark
 
----
+**Filename:** cubert-coin-primary.png
+
+**Recommended Usage**
+- Website
+- GitHub
+- Official Documents
+- Press Materials
+
+### Icon Logo
+
+Cubert
+
+**Filename:** cubert-coin-icon.png
+
+**Recommended Usage**
+- Social Media Profiles
+- Community Platforms
+- Favicons
+
+### Wordmark
+
+Official Cubert Coin typography. 
+
+**Filename:** cubert-coin-wordmark.png
+
+**Recommended Usage**
+- Headers
+- Banners
+- Merchandise
 
 ## Brand Colors
 
@@ -27,18 +62,48 @@ Coming Soon.
 | Cubert Hair | #4A2D12 |
 | Office White | #E6E5E2 |
 
----
-
 ## Typography
 
-Primary Typeface
+The Cubert Coin wordmark uses custom styling developed exclusively for the project.
 
-Coming Soon.
+### Guidelines
 
----
+- Use official logo assets whenever possible.
+- Do not recreate the wordmark manually.
+- Maintain original proportions and spacing.
+- Preserve official brand colors.
 
 ## Usage Guidelines
 
-Please use official Cubert Coin assets without modification whenever possible.
+### Allowed
+- Community content
+- News coverage
+- Educational materials
+- Partnership announcements
 
-Proof of Burnout.
+### Not Allowed
+- Logo modifications
+- Color alterations
+- Distortion or stretching
+- Use in misleading or fraudulent materials
+
+## Downloads
+
+### Logos
+- Primary Logo
+- Icon Logo
+- wordmark
+
+### Banners
+- Reddit Banner
+- Discord Banner
+- Telegram Banner
+- X Banner
+
+## Brand Statement
+
+Cubert Coin is a community built for everyone surviving meetings, spreadsheets, KPIs, deadlines, and performance reviews.
+
+**Proof of Burnout.**
+
+*Another Meeting. Another Token.Proof of Burnout.*
