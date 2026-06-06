@@ -100,3 +100,5 @@ Treasury wallets, team wallets, and liquidity information will be disclosed to t
 ## Final Note
 
 **Proof of Burnout.**
+
+*Another Meeting. Another Token.*
