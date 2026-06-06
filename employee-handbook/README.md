@@ -219,6 +219,13 @@ The KPI could have been arbitrary.
 
 But you survived.
 
+## Related Documents
+
+- 📘 [Brand Book](./brand-book)
+- 🎨 [Media Kit](./media-kit)
+- 🗺️ [Roadmap](./roadmap)
+- 📊 [Tokenomics](./tokenomics)
+
 ---
 
 **Proof of Burnout.**
