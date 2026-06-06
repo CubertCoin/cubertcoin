@@ -161,39 +161,42 @@ Stay productive.
 
 The Cubert Coin roadmap follows a corporate career ladder.
 
+Every promotion reflects a new stage in the growth of the project and the Corporate Survivors movement.
+
 ### Intern
 
-- Built the identity.
-- Filed the paperwork.
-- Survived onboarding.
+- Learning the culture.
+- Building the foundation.
+- Surviving onboarding.
   
 ### Analyst
 
-- Liquidity secured.
-- Community expanding.
-- Corporate operations underway.
+- Contributing to daily operations.
+- Supporting community growth.
+- Keeping the cubicles running.
 
 ### Senior Analyst
 
-- Strategic partnerships.
-- Expanded ecosystem.
-- Department growth.
+- Driving expansion.
+- Building partnerships.
+- Supporting ecosystem development.
 
 ### Manager
 
-- Community initiatives.
-- Governance preparation.
-- New utilities.
+- Leading initiatives.
+- Coordinating teams.
+- Preparing the organization for scale.
 
 ### Director
 
-- Global expansion.
-- Corporate Survivor adoption.
-- Strategic leadership.
+- Shaping strategy.
+- Expanding the Corporate Survivors movement.
+- Driving long-term growth.
 
 ### Executive
 
-- The cubicle goes public.
+- Responsible for the future of the organization.
+- Has attended meetings about meetings.
 - IPO vibes.
 
 ## Corporate Notice
