@@ -110,14 +110,16 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 **Status:** Planned 📋
 
 # Promotion Status
-Position	Status
-Intern	✅ Completed
-Analyst	🟡 In Progress
-Senior Analyst	⚪ Planned
-Manager	⚪ Planned
-Director	⚪ Planned
-Executive	⚪ Planned
 
+| Position | Status |
+|------|------|
+| Intern | ✅ Completed |
+| Analyst	 | 🟡 In Progress |
+| Senior Analyst | 📋 Planned |
+| Manager | 📋 Planned |
+| Director | 📋 Planned |
+| Executive | 📋 Planned |
+	
 --- 
 
 **Proof of Burnout.**
