@@ -46,7 +46,6 @@ The mission is simple: Turn burnout into belonging.
 - 🗺️ [Roadmap](./roadmap)
 - 📊 [Tokenomics](./tokenomics)
 
-
 ## Current Department
 
 - 🌐 Website → [Corporate Intranet](https://www.cubertcoin.com)
