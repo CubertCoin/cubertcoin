@@ -17,7 +17,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 **Objectives**
 
-- Build the brand identity
+- Build the identity
 - Fill out the paperwork
 - Survive the onboarding process
 
