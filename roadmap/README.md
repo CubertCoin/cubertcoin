@@ -119,7 +119,14 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 | Manager | ⚪ Planned |
 | Director | ⚪ Planned |
 | Executive | ⚪ Planned |
-	
+
+## Related Documents
+
+- 📘 [Brand Book](./brand-book)
+- 👔 [Employee Handbook](./employee-handbook)
+- 🎨 [Media Kit](./media-kit)
+- 📊 [Tokenomics](./tokenomics)
+
 --- 
 
 **Proof of Burnout.**
