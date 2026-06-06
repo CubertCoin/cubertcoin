@@ -69,6 +69,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 - Increase employee engagement
 - Expand organizational capabilities
+- Develop new community initiatives
 
 **Deliverables** 
 
@@ -85,6 +86,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 - Empower employee participation
 - Scale organizational influence
+- Drive strategic ecosystem growth
 
 **Deliverables**
 
@@ -100,6 +102,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 - Expand the Corporate Survivors movement worldwide
 - Establish long-term sustainability
+- Define the future of Corporate Survival
 
 **Deliverables**
 
