@@ -42,9 +42,10 @@ The mission is simple: Turn burnout into belonging.
 
 - 📘 Brand Book
 - 📖 Employee Handbook
+- 🎨 Media Kit
 - 🗺️ Roadmap
 - 📊 Tokenomics
-- 🎨 Media Kit
+
 
 ## Current Department
 
