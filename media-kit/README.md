@@ -104,6 +104,8 @@ The Cubert Coin wordmark uses custom styling developed exclusively for the proje
 
 Cubert Coin is a community built for everyone surviving meetings, spreadsheets, KPIs, deadlines, and performance reviews.
 
+---
+
 **Proof of Burnout.**
 
 *Another Meeting. Another Token.Proof of Burnout.*
