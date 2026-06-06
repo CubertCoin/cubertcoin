@@ -61,7 +61,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 - Community Tracking Listings
 - Ecosystem Expansion
 
-**Status:** Planned 📋
+**Status:** Planned ⚪
 
 ## Manager
 
@@ -77,7 +77,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 - New Community Initiatives
 - Expanded Utility Development
 
-**Status:** Planned 📋
+**Status:** Planned ⚪
 
 ## Director
 
@@ -92,7 +92,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 - Community-Led Programs
 - Expanded Ecosystem Utilities
 
-**Status:** Planned 📋
+**Status:** Planned ⚪
 
 ## Executive
 
@@ -107,7 +107,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 - International Awareness Campaigns
 - Long-Term Ecosystem Development
 
-**Status:** Planned 📋
+**Status:** Planned ⚪
 
 # Promotion Status
 
@@ -115,10 +115,10 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 |------|------|
 | Intern | ✅ Completed |
 | Analyst	 | 🟡 In Progress |
-| Senior Analyst | 📋 Planned |
-| Manager | 📋 Planned |
-| Director | 📋 Planned |
-| Executive | 📋 Planned |
+| Senior Analyst | ⚪ Planned |
+| Manager | ⚪ Planned |
+| Director | ⚪ Planned |
+| Executive | ⚪ Planned |
 	
 --- 
 
