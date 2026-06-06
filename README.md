@@ -55,18 +55,14 @@ The mission is simple: Turn burnout into belonging.
 - 👽 Reddit → [Employee Forum](https://reddit.com/r/CubertCoin)
 - 📸 Instagram → [Corporate Gallery](https://www.instagram.com/cubertcoin)
 
----
-
 ## Corporate Notice
 
 Cubert Coin is a community-driven project built around corporate culture, workplace humor, and the shared experience of surviving modern office life.
 
-No promises.
-
-No guarantees.
-
-Just Proof of Burnout.
+No promises. No guarantees. Just Proof of Burnout.
 
 ---
 
-Another Meeting. Another Token.
+**Proof of Burnout.**
+
+*Another Meeting. Another Token.*
