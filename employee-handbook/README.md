@@ -195,8 +195,8 @@ Every promotion reflects a new stage in the growth of the project and the Corpor
 
 ### Executive
 
-- Responsible for the future of the organization.
-- Has attended meetings about meetings.
+- Leading the Corporate Survivors movement.
+- Global recognition.
 - IPO vibes.
 
 ## Corporate Notice
