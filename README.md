@@ -40,11 +40,11 @@ The mission is simple: Turn burnout into belonging.
 
 ## Core Documents
 
-- 📘 Brand Book
-- 📖 Employee Handbook
-- 🎨 Media Kit
-- 🗺️ Roadmap
-- 📊 Tokenomics
+- 📘 [Brand Book](./brand-book)
+- 📖 [Employee Handbook](./employee-handbook)
+- 🎨 [Media Kit](./media-kit)
+- 🗺️ [Roadmap](./roadmap)
+- 📊 [Tokenomics](./tokenomics)
 
 
 ## Current Department
