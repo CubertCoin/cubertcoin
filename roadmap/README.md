@@ -1,80 +1,125 @@
-# Cubert Coin Roadmap
+<p align="center"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
+</p> 
 
-## Proof of Burnout
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p>
 
-The Cubert Coin roadmap follows a corporate career ladder.
+# Corporate Career Progression Plan
 
-Every step represents growth for the project, the community, and the Corporate Survivors movement.
+Every Corporate Survivor starts somewhere.
 
----
+The Cubert Coin roadmap follows a corporate career ladder, with each promotion representing a new stage of growth for the project, the community, and the broader Corporate Survivors movement.
 
 ## Intern
 
-- Create official brand identity
-- Launch GitHub repository
-- Publish Brand Book
-- Publish Employee Handbook
-- Establish official social channels
-- Build the first Corporate Survivors community
+**Objectives**
 
-Status: Completed ✅
+- Build the brand identity
+- Fill out the paperwork
+- Survive the onboarding process
 
----
+**Deliverables** 
+- Brand Book
+- Employee Handbook
+- Community Infrastructure
+- Corporate Presence
+
+**Status:** Completed ✅
 
 ## Analyst
 
-- Expand Discord community
-- Launch Telegram
-- Publish official website
-- Release Media Kit
-- Publish Tokenomics
-- Begin community campaigns
+**Objectives**
 
-Status: In Progress 🔄
+- Expand the Corporate Survivors workforce
+- Strengthen community operations
+- Finalize public-facing infrastructure
 
----
+**Deliverables** 
+
+- Official Website
+- Media Kit
+- Tokenomics Documentation
+- Community Growth Campaigns
+
+**Status:** In Progress 🟡
 
 ## Senior Analyst
 
+**Objectives**
+
 - Launch Cubert Coin
-- Establish initial liquidity
-- List on community tracking platforms
-- Grow the Corporate Survivors ecosystem
-- Expand social presence
+- Expand ecosystem visibility
+- Establish operational liquidity
 
-Status: Planned 📋
+**Deliverables** 
 
----
+- Token Launch
+- Liquidity Deployment
+- Community Tracking Listings
+- Ecosystem Expansion
+
+**Status:** Planned 📋
 
 ## Manager
 
-- Community reward programs
-- Strategic partnerships
-- Ecosystem expansion
-- New community initiatives
+**Objectives**
 
-Status: Planned 📋
+- Increase employee engagement
+- Expand organizational capabilities
 
----
+**Deliverables** 
+
+- Community Reward Programs
+- Strategic Partnerships
+- New Community Initiatives
+- Expanded Utility Development
+
+**Status:** Planned 📋
 
 ## Director
 
-- Governance discussions
-- Expanded utilities
-- Community-led initiatives
+**Objectives**
 
-Status: Planned 📋
+- Empower employee participation
+- Scale organizational influence
 
----
+**Deliverables**
+
+- Governance Initiatives
+- Community-Led Programs
+- Expanded Ecosystem Utilities
+
+**Status:** Planned 📋
 
 ## Executive
 
-- Global Corporate Survivors movement
-- International community growth
-- Long-term ecosystem development
+**Objectives**
 
-Status: Planned 📋
+- Expand the Corporate Survivors movement worldwide
+- Establish long-term sustainability
 
----
+**Deliverables**
 
-Another Meeting. Another Token.
+- Global Community Expansion
+- International Awareness Campaigns
+- Long-Term Ecosystem Development
+
+**Status:** Planned 📋
+
+# Promotion Status
+Position	Status
+Intern	✅ Completed
+Analyst	🟡 In Progress
+Senior Analyst	⚪ Planned
+Manager	⚪ Planned
+Director	⚪ Planned
+Executive	⚪ Planned
+
+--- 
+
+**Proof of Burnout.**
+
+*Another Meeting. Another Token.*
