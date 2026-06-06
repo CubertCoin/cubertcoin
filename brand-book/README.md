@@ -130,6 +130,13 @@ It is a badge of honor for everyone who has ever survived a pointless meeting, a
 -	Discord Banner
 -	X Banner
 
+## Related Documents
+
+- 👔 [Employee Handbook](./employee-handbook)
+- 🎨 [Media Kit](./media-kit)
+- 🗺️ [Roadmap](./roadmap)
+- 📊 [Tokenomics](./tokenomics)
+
 --- 
 
 **Proof of Burnout.**
