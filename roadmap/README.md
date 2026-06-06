@@ -109,7 +109,7 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 **Status:** Planned ⚪
 
-# Promotion Status
+## Promotion Status
 
 | Position | Status |
 |------|------|
