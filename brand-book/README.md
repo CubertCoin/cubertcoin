@@ -132,10 +132,10 @@ It is a badge of honor for everyone who has ever survived a pointless meeting, a
 
 ## Related Documents
 
-- 👔 [Employee Handbook](./employee-handbook)
-- 🎨 [Media Kit](./media-kit)
-- 🗺️ [Roadmap](./roadmap)
-- 📊 [Tokenomics](./tokenomics)
+- 👔 [Employee Handbook](../employee-handbook/)
+- 🎨 [Media Kit](../media-kit/)
+- 🗺️ [Roadmap](../roadmap/)
+- 📊 [Tokenomics](../tokenomics/)
 
 --- 
 
