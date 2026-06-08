@@ -221,10 +221,10 @@ But you survived.
 
 ## Related Documents
 
-- 📘 [Brand Book](./brand-book)
-- 🎨 [Media Kit](./media-kit)
-- 🗺️ [Roadmap](./roadmap)
-- 📊 [Tokenomics](./tokenomics)
+- 📘 [Brand Book](../brand-book/)
+- 🎨 [Media Kit](../media-kit/)
+- 🗺️ [Roadmap](../roadmap/)
+- 📊 [Tokenomics](../tokenomics/)
 
 ---
 
