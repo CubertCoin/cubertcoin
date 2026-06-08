@@ -115,10 +115,10 @@ Neither Cubert nor the Corporate Survivors Department can guarantee profits, pro
 
 ## Related Documents
 
-- 📘 [Brand Book](./brand-book)
-- 👔 [Employee Handbook](./employee-handbook)
-- 🎨 [Media Kit](./media-kit)
-- 🗺️ [Roadmap](./roadmap)
+- 📘 [Brand Book](../brand-book/)
+- 👔 [Employee Handbook](../employee-handbook/)
+- 🎨 [Media Kit](../media-kit/)
+- 🗺️ [Roadmap](../roadmap/)
 
 --- 
 
