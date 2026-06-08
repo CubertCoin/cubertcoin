@@ -109,7 +109,7 @@ Cubert Coin is a community built for everyone surviving meetings, spreadsheets, 
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🗺️ [Roadmap](../roadmap/)
-- 📊 [Tokenomics](../src/tokenomics/)
+- 📊 [Tokenomics](../tokenomics/)
 
 ---
 
