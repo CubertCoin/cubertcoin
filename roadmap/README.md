@@ -125,10 +125,10 @@ The Cubert Coin roadmap follows a corporate career ladder, with each promotion r
 
 ## Related Documents
 
-- 📘 [Brand Book](./brand-book)
-- 👔 [Employee Handbook](./employee-handbook)
-- 🎨 [Media Kit](./media-kit)
-- 📊 [Tokenomics](./tokenomics)
+- 📘 [Brand Book](../brand-book/)
+- 👔 [Employee Handbook](../employee-handbook/)
+- 🎨 [Media Kit](../media-kit/)
+- 📊 [Tokenomics](../tokenomics/)
 
 --- 
 
