@@ -68,29 +68,60 @@ These are the only approved colors for Cubert Coin materials.
  
 The full brand mark. Use this whenever space allows.
  
-**Approved usage:**
+**Approved Usage**
 - Website
-- GitHub repository
-- Official documents
-- Community platforms
+- README principal
+- Brand Book
+- Employee Handbook
+- Tokenomics
+- Media Kit
+- Press releases
  
-### Secondary Logo — Wordmark only
- 
+### Secondary Logo — Coin + Cubert Coin (horizontal layout)
+
+A compact variant optimized for horizontal formats.
+
+**Approved Usage** 
+- Banners
+- Partner materials
+- Headers
+- Email signatures
+- Promotional materials
+
+### Wordmark — typography only, no icon
+
 Text-only version of the brand mark.
+
+**Approved Usage** 
+- Footers
+- Website sections
+- Graphic materials
+- Layouts where the symbol already appears
  
-**Approved usage:**
-- Headers and banners
-- Merchandise
-- Co-branded materials
- 
-### Icon — Cubert only
+### Icon — Coin only - no text
+
+Designed for maximum legibility at small sizes.
+
+**Approved Usage**
+- Favicon
+- CoinGecko
+- CoinMarketCap
+- DexScreener
+- Wallets
+- Exchanges
+
+### Mascot — Cubert's face - no hexagon, no text
  
 The mascot alone, without wordmark.
- 
-**Approved usage:**
-- Social media avatars
-- Favicons
-- Community channel icons
+
+**Approved Usage** 
+- X / Twitter
+- Reddit
+- Discord
+- Telegram
+- Instagram
+- Memes
+- Social content
  
 ### ❌ Logo Misuse
  
