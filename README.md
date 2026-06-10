@@ -56,6 +56,7 @@ Build the largest community of Corporate Survivors on the internet.
 
 ## 📁 Core Documents
 
+- ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🎨 [Media Kit](./media-kit)
