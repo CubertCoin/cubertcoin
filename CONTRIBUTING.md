@@ -90,12 +90,14 @@ To submit, open a [content submission issue](https://github.com/CubertCoin/cuber
  
 Have a question? An idea? Just want to vent about your last all-hands meeting?
 
-- 🐦 **X / Twitter** — [Corporate Broadcast System](https://x.com/cubertcoin)
+- ❓ **FAQ** — [Frequently Asked Questions](./faq.md) — start here if you're new
+- 🐦 **X / Twitter** — [Corporate Broadcast System](https://x.com/cubertcoin) for daily corporate survival content
 - 🗣️ **Discord** — [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz) for real-time chat
-- 📢 **Telegram** — [Corporate Hotline](https://t.me/cubertcoin)
+- 📢 **Telegram** — [Corporate Hotline](https://t.me/cubertcoin) for updates and announcements
 - 👽 **Reddit** — [r/CubertCoin](https://reddit.com/r/CubertCoin) for memes and discussion
-- 📸 Instagram — [Corporate Gallery](https://www.instagram.com/cubertcoin)
+- 📸 Instagram — [Corporate Gallery](https://www.instagram.com/cubertcoin) for visual content and brand assets
 - 💬 **GitHub Discussions** — [Join here](https://github.com/CubertCoin/cubertcoin/discussions) for project-level conversations
+
 Please use GitHub Issues for actionable items (bugs, content submissions) and community channels for everything else. We have enough meetings; let's not make GitHub one too.
  
 ## ✏️ Style Guide
