@@ -36,8 +36,6 @@ Cubert is one of them.
 | 📄 Smart Contract | ⚪ Pending |
 | 🔒 Liquidity Lock | ⚪ Pending |
 
----
-
 ## 🏢 Corporate Ladder
 
 | Level | Position | Status |
@@ -49,15 +47,11 @@ Cubert is one of them.
 | L5 | Director | ⚪ Pending |
 | L6 | Executive | ⚪ Pending |
 
----
-
 ## 🎯 Mission
 
 Build the largest community of Corporate Survivors on the internet.
 
 > *Turn burnout into belonging.*
-
----
 
 ## 📁 Core Documents
 
@@ -66,8 +60,6 @@ Build the largest community of Corporate Survivors on the internet.
 - 🎨 [Media Kit](./media-kit)
 - 🗺️ [Roadmap](./roadmap)
 - 📊 [Tokenomics](./tokenomics)
-
----
 
 ## 🌐 Official Channels
 
@@ -81,8 +73,6 @@ Build the largest community of Corporate Survivors on the internet.
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
 
----
-
 ## 🤝 Contributing
 
 Want to contribute memes, content, or feedback?
@@ -91,8 +81,6 @@ Check out our open Issues and join the conversation.
 - 🐛 [Report a bug](https://github.com/CubertCoin/cubertcoin/issues/3)
 - 🎨 [Submit content](https://github.com/CubertCoin/cubertcoin/issues/1)
 - 💬 [Join discussions](https://github.com/CubertCoin/cubertcoin/discussions)
-
----
 
 ## ⚠️ Corporate Notice
 
