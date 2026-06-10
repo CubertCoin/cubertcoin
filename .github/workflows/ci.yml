@@ -91,3 +91,4 @@ jobs:
           else
             echo ""
             echo "🎉 All files present. Corporate compliance achieved."
+            fi
