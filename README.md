@@ -76,7 +76,7 @@ Build the largest community of Corporate Survivors on the internet.
 ## 🤝 Contributing
 
 Want to contribute memes, content, or feedback?
-Check out our open Issues and join the conversation.
+Read our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 - 🐛 [Report a bug](https://github.com/CubertCoin/cubertcoin/issues/3)
 - 🎨 [Submit content](https://github.com/CubertCoin/cubertcoin/issues/1)
