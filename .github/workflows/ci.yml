@@ -1,0 +1,187 @@
+name: 📋 Corporate Quality Assurance
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # ─────────────────────────────────────────
+  # JOB 1 — Check for broken links
+  # ─────────────────────────────────────────
+  link-check:
+    name: 🔗 Link Checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in Markdown files
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: |
+            --verbose
+            --no-progress
+            --exclude-mail
+            '**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────
+  # JOB 2 — Lint Markdown formatting
+  # ─────────────────────────────────────────
+  markdown-lint:
+    name: ✍️ Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown files
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'
+          config: '.markdownlint.json'
+
+  # ─────────────────────────────────────────
+  # JOB 3 — Verify required files exist
+  # ─────────────────────────────────────────
+  file-check:
+    name: 📁 File Structure Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify required files and assets
+        run: |
+          echo "🔍 Running Corporate Compliance Check..."
+
+          MISSING=0
+
+          required_files=(
+            "README.md"
+            "CONTRIBUTING.md"
+            "LICENSE"
+            "brand-book/README.md"
+            "employee-handbook/README.md"
+            "media-kit/README.md"
+            "roadmap/README.md"
+            "tokenomics/README.md"
+            "media-kit/logos/cubert-coin-primary.png"
+            "media-kit/logos/cubert-coin-icon.png"
+            "media-kit/logos/cubert-coin-wordmark.png"
+          )
+
+          for file in "${required_files[@]}"; do
+            if [ ! -f "$file" ]; then
+              echo "❌ Missing: $file"
+              MISSING=$((MISSING + 1))
+            else
+              echo "✅ Found:   $file"
+            fi
+          done
+
+          if [ $MISSING -gt 0 ]; then
+            echo ""
+            echo "💼 HR Notice: $MISSING required file(s) are missing."
+            echo "Please submit the missing assets before your next performance review."
+            exit 1
+          else
+            echo ""
+            echo "🎉 All files present. Corporate compliance achieved."
+          finame: 📋 Corporate Quality Assurance
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # ─────────────────────────────────────────
+  # JOB 1 — Check for broken links
+  # ─────────────────────────────────────────
+  link-check:
+    name: 🔗 Link Checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in Markdown files
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: |
+            --verbose
+            --no-progress
+            --exclude-mail
+            '**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────
+  # JOB 2 — Lint Markdown formatting
+  # ─────────────────────────────────────────
+  markdown-lint:
+    name: ✍️ Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown files
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'
+          config: '.markdownlint.json'
+
+  # ─────────────────────────────────────────
+  # JOB 3 — Verify required files exist
+  # ─────────────────────────────────────────
+  file-check:
+    name: 📁 File Structure Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify required files and assets
+        run: |
+          echo "🔍 Running Corporate Compliance Check..."
+
+          MISSING=0
+
+          required_files=(
+            "README.md"
+            "CONTRIBUTING.md"
+            "LICENSE"
+            "brand-book/README.md"
+            "employee-handbook/README.md"
+            "media-kit/README.md"
+            "roadmap/README.md"
+            "tokenomics/README.md"
+            "media-kit/logos/cubert-coin-primary.png"
+            "media-kit/logos/cubert-coin-icon.png"
+            "media-kit/logos/cubert-coin-wordmark.png"
+          )
+
+          for file in "${required_files[@]}"; do
+            if [ ! -f "$file" ]; then
+              echo "❌ Missing: $file"
+              MISSING=$((MISSING + 1))
+            else
+              echo "✅ Found:   $file"
+            fi
+          done
+
+          if [ $MISSING -gt 0 ]; then
+            echo ""
+            echo "💼 HR Notice: $MISSING required file(s) are missing."
+            echo "Please submit the missing assets before your next performance review."
+            exit 1
+          else
+            echo ""
+            echo "🎉 All files present. Corporate compliance achieved."
+          fi
