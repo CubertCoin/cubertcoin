@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Network-Solana-9945FF?style=flat-square&logo=solana" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Phase-Community%20Building-blue?style=flat-square" />
+  <img src="https://github.com/CubertCoin/cubertcoin/actions/workflows/ci.yml/badge.svg" />
 </p>
 
 ---
