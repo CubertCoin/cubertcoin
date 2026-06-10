@@ -1,3 +1,14 @@
+<p align="center"> 
+  <img src="/media-kit/logos/cubert-coin-primary.png" width="220">  
+</p> 
+
+<h3 align="center">Proof of Burnout.</h3> 
+<p align="center"> 
+  <em>The first cryptocurrency built for Corporate Survivors.</em> 
+</p>
+
+---
+
 # 👔 Contributing to CubertCoin
  
 > *Welcome to the department. Please fill out the onboarding form. No, the other one.*
@@ -5,8 +16,6 @@
 Thank you for your interest in contributing to **CubertCoin** — the first cryptocurrency built for Corporate Survivors.
  
 This document explains how you can help us build the largest community of Corporate Survivors on the internet. No prior experience required. Just a pulse and a tolerance for spreadsheets.
- 
----
  
 ## 📋 Table of Contents
  
@@ -18,7 +27,6 @@ This document explains how you can help us build the largest community of Corpor
 - [Style Guide](#style-guide)
 - [Pull Request Process](#pull-request-process)
 - [Corporate Notice](#corporate-notice)
----
  
 ## 🤝 Code of Conduct
  
@@ -32,8 +40,6 @@ We expect all contributors to:
 - Remember: we're all just trying to survive out here
 Unacceptable behavior will be handled swiftly — faster than your manager responds to Slack messages on a Friday afternoon.
  
----
- 
 ## 💼 Ways to Contribute
  
 There are several open positions in our Corporate Survivor org. Pick your lane:
@@ -46,8 +52,6 @@ There are several open positions in our Corporate Survivor org. Pick your lane:
 | 💬 **Community Manager** | Engage with the community on Discord, Reddit, Telegram |
 | 🔧 **Technical Contributor** | Help with smart contract development, tooling, or docs |
 | 🌍 **Translation Specialist** | Translate documents to other languages |
- 
----
  
 ## 🐛 Reporting Issues
  
@@ -64,7 +68,6 @@ Found something broken? A dead link? A typo that slipped past QA (which is you)?
 - What you expected to happen
 - What actually happened
 - Steps to reproduce
----
  
 ## 🎨 Submitting Content
  
@@ -81,20 +84,19 @@ Content is the lifeblood of the Corporate Survivor community. We accept:
 - Stay consistent with the CubertCoin tone: dry, sardonic, but ultimately hopeful
 - Original content only — no plagiarism (we have a zero-tolerance policy, unlike our manager)
 To submit, open a [content submission issue](https://github.com/CubertCoin/cubertcoin/issues/1) with a description and link or attachment.
- 
----
+
  
 ## 💬 Community & Discussions
  
 Have a question? An idea? Just want to vent about your last all-hands meeting?
- 
-- 💬 **GitHub Discussions** — [Join here](https://github.com/CubertCoin/cubertcoin/discussions) for project-level conversations
+
+- 🐦 **X / Twitter** — [Corporate Broadcast System](https://x.com/cubertcoin)
 - 🗣️ **Discord** — [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz) for real-time chat
 - 📢 **Telegram** — [Corporate Hotline](https://t.me/cubertcoin)
 - 👽 **Reddit** — [r/CubertCoin](https://reddit.com/r/CubertCoin) for memes and discussion
+- 📸 Instagram — [Corporate Gallery](https://www.instagram.com/cubertcoin)
+- 💬 **GitHub Discussions** — [Join here](https://github.com/CubertCoin/cubertcoin/discussions) for project-level conversations
 Please use GitHub Issues for actionable items (bugs, content submissions) and community channels for everything else. We have enough meetings; let's not make GitHub one too.
- 
----
  
 ## ✏️ Style Guide
  
@@ -105,7 +107,6 @@ When contributing text to the repository, follow the CubertCoin voice:
 - **Formatting:** Use Markdown. Headers, tables, and bullet points are encouraged — we love a good status update
 - **Emoji:** Used sparingly for section headers and lists. Not in every sentence. We're professionals. Sort of.
 - **Jargon:** Corporate buzzwords can be used ironically (e.g., "synergize", "circle back") — but always with a wink
----
  
 ## 🔀 Pull Request Process
  
@@ -131,7 +132,6 @@ For documentation or repository changes:
 - [ ] Content aligns with the Brand Book and tone guide
 - [ ] No broken links
 - [ ] Spelling and grammar checked (we're not animals)
----
  
 ## ⚠️ Corporate Notice
  
