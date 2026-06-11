@@ -186,9 +186,11 @@ We are not just a token. We are a badge of honor.
 > **Proof of Burnout.**
  
 ## 📁 Related Documents
- 
+
+- ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 🏛️ [Governance](../governance)
 - 🗺️ [Roadmap](../roadmap/)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
