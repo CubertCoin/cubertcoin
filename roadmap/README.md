@@ -136,9 +136,11 @@ Deliverables, timelines, and objectives may be adjusted to reflect real-world co
 No promises. No guarantees. Just **Proof of Burnout.**
  
 ## 📁 Related Documents
- 
+
+- ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 🏛️ [Governance](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
