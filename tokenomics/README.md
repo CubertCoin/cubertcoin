@@ -121,9 +121,11 @@ Nothing in this document constitutes financial, legal, tax, or investment advice
 Past performance does not guarantee future results. Neither Cubert nor the Corporate Survivors Department can guarantee profits, promotions, bonuses, or fewer meetings.
  
 ## 📁 Related Documents
- 
+
+- ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 🏛️ [Governance](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - 🗺️ [Roadmap](../roadmap/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
