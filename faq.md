@@ -128,12 +128,13 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
  
 | Document | Link |
 |---|---|
-| 📘 Brand Book | [brand-book/](./brand-book/) |
-| 👔 Employee Handbook | [employee-handbook/](./employee-handbook/) |
-| 🎨 Media Kit | [media-kit/](./media-kit/) |
-| 🗺️ Roadmap | [roadmap/](./roadmap/) |
-| 📊 Tokenomics | [tokenomics/](./tokenomics/) |
-| 🤝 Contributing Guide | [CONTRIBUTING.md](./CONTRIBUTING.md) |
+| 📘 Brand Book | [Brand Book](./brand-book/) |
+| 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
+| 🎨 Media Kit | [Media Kit](./media-kit/) |
+| 🏛️ Governance | [Governance](./governance) |
+| 🗺️ Roadmap | [Roadmap](./roadmap/) |
+| 📊 Tokenomics | [Tokenomics](./tokenomics/) |
+| 🤝 Contributing Guide | [Contributing Guide](./CONTRIBUTING.md) |
  
 ## ⚠️ Disclaimer
  
