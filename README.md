@@ -59,6 +59,7 @@ Build the largest community of Corporate Survivors on the internet.
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
 - 👔 [Employee Handbook](./employee-handbook)
+- 🏛️ [Governance](./governance)
 - 🎨 [Media Kit](./media-kit)
 - 🗺️ [Roadmap](./roadmap)
 - 📊 [Tokenomics](./tokenomics)
