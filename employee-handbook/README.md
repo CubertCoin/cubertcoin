@@ -140,9 +140,11 @@ But you survived. And that means something around here.
 **Welcome to the team.**
  
 ## 📁 Related Documents
- 
+
+- ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 🎨 [Media Kit](../media-kit/)
+- 🏛️ [Governance](../governance)
 - 🗺️ [Roadmap](../roadmap/)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
