@@ -191,9 +191,11 @@ We are Corporate Survivors. And we have the receipts.
 > **Proof of Burnout.**
  
 ## 📁 Related Documents
- 
+
+- ❓ [FAQ](../faq.md)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🎨 [Media Kit](../media-kit/)
+- 🏛️ [Governance](../governance)
 - 🗺️ [Roadmap](../roadmap/)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
