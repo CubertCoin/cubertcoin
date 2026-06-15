@@ -194,11 +194,14 @@ We are Corporate Survivors. And we have the receipts.
 
 - ❓ [FAQ](../faq.md)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🎨 [Media Kit](../media-kit/)
 - 🏛️ [Governance](../governance)
+- 🎨 [Media Kit](../media-kit/)
+- ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
+  
 ---
  
 **Proof of Burnout.**
