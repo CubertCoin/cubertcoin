@@ -140,6 +140,8 @@ In cases where external circumstances require immediate changes, the Founder may
 *The budget, finally approved.*
  
 The Corporate Treasury holds 15% of total $CUBE supply, as defined in the [Tokenomics](../tokenomics/) document. It is governed by multi-sig — no single party can move funds unilaterally.
+
+> At this stage, the multisig is self-custodied by the Founder across separate devices, per the configuration disclosed in the [Tokenomics](../tokenomics/) document. Regardless of signer configuration, liquidity and team allocations are additionally protected by immutable on-chain lock/vesting contracts that no signer — including the Founder — can bypass before unlock.
  
 ### Spending Authority
  
