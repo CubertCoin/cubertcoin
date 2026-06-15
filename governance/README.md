@@ -238,6 +238,7 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
  
 ## 📁 Related Documents
  
+- ❓ [FAQ](../faq/)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🎨 [Media Kit](../media-kit/)
@@ -247,6 +248,7 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
 ---
  
 **Proof of Burnout.**
+
 *Another Meeting. Another Token.*
  
 *CubertCoin Governance Charter · v1.0 · Filed under: GOV-001 · June 2026*
