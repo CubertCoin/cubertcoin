@@ -70,7 +70,7 @@ Build the largest community of Corporate Survivors on the internet.
 - 🎨 [Media Kit](./media-kit)
 - ⚠️ [Risk Disclosure](./risks.md)
 - 🗺️ [Roadmap](./roadmap)
-- 🛡️ [Security Policy](./ SECURITY.md)
+- 🛡️ [Security Policy](./SECURITY.md)
 - 📊 [Tokenomics](./tokenomics)
 - 🤝 [Contributing Guide](./CONTRIBUTING.md)
 
