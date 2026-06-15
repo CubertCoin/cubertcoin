@@ -15,7 +15,7 @@
 **Version:** 1.0    
 **Status:** Active 🟢    
  
-This document is intentionally written without humor. Everything else in this repository isn't — but this part matters too much to joke about.
+This document is intentionally written without humor. Everything else in this repository is written with it — but this part matters too much to joke about.
  
 If you are considering acquiring, holding, or interacting with $CUBE in any way, please read this in full.
  
@@ -40,7 +40,8 @@ The price of $CUBE — if and when a trading market exists — may be extremely 
  
 - $CUBE may lose all value, become untradeable, or cease to exist entirely.
 - There is no guarantee that any liquidity pool, exchange listing, or trading venue will exist, persist, or remain accessible.
-- Regulatory treatment of cryptocurrencies — including meme coins — varies by jurisdiction and may change at any time, including retroactively.
+- Regulatory treatment of cryptocurrencies — including meme coins — varies by jurisdiction and may change at any time, including retroactively (meaning a jurisdiction that permits crypto activity today may restrict or prohibit it in the future, potentially affecting existing holdings).
+
 ## 4. No Guarantee of Federal or Local Regulatory Protection
  
 Even in jurisdictions where meme coins are generally not treated as securities, **holders of $CUBE are not afforded the protections that securities laws provide to investors** (such as mandatory disclosures, registration requirements, or recourse mechanisms specific to regulated financial products).
@@ -72,13 +73,24 @@ As disclosed in the [Governance Charter](./governance/), CubertCoin currently op
 - The possibility that the project is discontinued, abandoned, or significantly changed
 The [Security Policy](./SECURITY.md) and Governance Charter describe current mitigations (multisig, locks, vesting, planned expansion of Core Contributors), but these mitigations are partial and evolving, not absolute guarantees.
  
-## 8. No Warranty, No Liability
+## 8. Tax Obligations Are Your Responsibility
+ 
+In many jurisdictions, acquiring, holding, trading, or otherwise disposing of cryptocurrency — including $CUBE — may be a taxable event. This includes but is not limited to:
+ 
+- Capital gains or losses upon sale or exchange
+- Income recognition upon receiving $CUBE as part of community rewards, airdrops, or any other distribution
+- Reporting requirements for foreign assets or cryptocurrency holdings
+CubertCoin does not provide tax reporting, tax documents, or guidance of any kind. You are solely responsible for understanding and meeting your tax obligations under the laws of your own jurisdiction.
+ 
+Consult a qualified tax professional before acquiring $CUBE if you are unsure of your obligations.
+ 
+## 9. No Warranty, No Liability
  
 $CUBE, this repository, the website, and all official channels are provided "as is," without warranties of any kind, express or implied.
  
 To the maximum extent permitted by applicable law, the Founder and Core Contributors disclaim all liability for any direct, indirect, incidental, or consequential losses arising from acquiring, holding, trading, or otherwise interacting with $CUBE, this repository, or any official channel.
  
-## 9. Do Your Own Research (DYOR)
+## 10. Do Your Own Research (DYOR)
  
 Nothing in this repository constitutes financial, legal, tax, or investment advice. Before making any decision related to $CUBE, you should:
  
