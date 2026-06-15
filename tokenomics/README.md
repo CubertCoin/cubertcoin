@@ -25,7 +25,7 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Token Name | Cubert Coin |
 | Ticker Symbol | `$CUBE` |
 | Blockchain | Solana |
-| Token Standard | SPL Token — *TBD* |
+| Token Standard | SPL Token — (Classic) |
 | Total Supply | 1,000,000,000 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
