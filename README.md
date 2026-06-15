@@ -68,8 +68,11 @@ Build the largest community of Corporate Survivors on the internet.
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance](./governance)
 - 🎨 [Media Kit](./media-kit)
+- ⚠️ [Risk Disclosure](./risks.md)
 - 🗺️ [Roadmap](./roadmap)
+- 🛡️ [Security Policy](./ SECURITY.md)
 - 📊 [Tokenomics](./tokenomics)
+- 🤝 [Contributing Guide](./CONTRIBUTING.md)
 
 ## 🌐 Official Channels
 
