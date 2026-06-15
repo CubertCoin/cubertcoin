@@ -143,9 +143,11 @@ But you survived. And that means something around here.
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
-- 🎨 [Media Kit](../media-kit/)
 - 🏛️ [Governance](../governance)
+- 🎨 [Media Kit](../media-kit/)
+- ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
 
