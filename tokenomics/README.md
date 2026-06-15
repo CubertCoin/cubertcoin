@@ -67,8 +67,8 @@ Reserved for future operations, development, and strategic opportunities that be
 |---|---|
 | Allocation | 150,000,000 $CUBE |
 | Controls | Multi-signature wallet |
-| Multisig Provider | TBD |
-| Multisig Threshold | TBD |
+| Multisig Provider | Squads Protocol |
+| Multisig Threshold | 2-of-3 |
 | Usage | Transparent and community-disclosed |
 | Focus | Long-term project sustainability |
  
