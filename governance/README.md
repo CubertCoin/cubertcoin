@@ -244,7 +244,9 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🎨 [Media Kit](../media-kit/)
+- ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
 ---
