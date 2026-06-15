@@ -191,7 +191,9 @@ We are not just a token. We are a badge of honor.
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance](../governance)
+- ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
  
