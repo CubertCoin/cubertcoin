@@ -13,7 +13,7 @@
 > *"This policy was reviewed during a meeting that should have been an email. It is, for once, the email."*
  
 **Filing Ref.:** SEC-001
-**Effective Date:** TBD
+**Effective Date:** Upon commit to `main`
 **Version:** 1.0
 **Status:** Active 🟡
  
@@ -21,11 +21,13 @@ This document defines how security issues, scam reports, and incident response w
  
 ## 📣 Reporting a Vulnerability or Security Concern
  
-If you discover a security vulnerability — in this repository, the smart contract (once deployed), or any official CubertCoin channel — please report it responsibly.
+If you discover a security vulnerability — in this repository, the smart contract (once deployed), or any official CubertCoin channel (e.g. a compromised Discord bot, a defaced website, a hijacked social account) — please report it responsibly.
  
 ### How to Report
  
 **Preferred:** Open a [private security advisory](https://github.com/CubertCoin/cubertcoin/security/advisories) on GitHub. This keeps the report private until it's resolved.
+
+> If the link above is unavailable, private vulnerability reporting may not yet be enabled for this repository — in that case, use the alternative method below.
  
 **Alternative:** Contact the Founder directly via the official channels listed below. Do **not** disclose unpatched vulnerabilities publicly (Discord, Telegram, X, GitHub Issues) until the Founder has confirmed the report and a fix or mitigation is in place.
  
@@ -39,8 +41,8 @@ If you discover a security vulnerability — in this repository, the smart contr
  
 | Step | Timeline |
 |------|----------|
-| Acknowledgment of report | Within 48 hours |
-| Initial assessment | Within 5 days |
+| Acknowledgment of report | Best-effort Within 48 hours |
+| Initial assessment | Best-effort Within 5 days |
 | Resolution or mitigation plan | Communicated as soon as available |
  
 Responsible disclosure helps protect the community. Anyone who reports a valid issue in good faith will be credited (if desired) once the issue is resolved.
@@ -63,6 +65,8 @@ The official $CUBE contract address, announcements, and links will **only ever**
 | 📢 Telegram | [Corporate Hotline](https://t.me/cubertcoin) |
  
 **Any contract address, link, or announcement from any other source — including DMs, comments, or accounts impersonating the project — is unauthorized and should be treated as a scam.**
+
+> 🔑 **No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval "to verify your wallet," or ask you to connect your wallet to a site outside [cubertcoin.com](https://www.cubertcoin.com). Any message claiming otherwise — even from an account that looks like an admin or moderator — is a scam.
  
 ### How to Report a Scam
  
@@ -138,7 +142,7 @@ As the project grows, the plan is to evolve toward additional independent signer
  
 | Version | Date | Summary |
 |---------|------|---------|
-| 1.0 | TBD | Initial Security Policy |
+| 1.0 | June 2026 | Initial Security Policy |
  
 ---
  
