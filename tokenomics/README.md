@@ -171,7 +171,9 @@ Past performance does not guarantee future results. Neither Cubert nor the Corpo
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance](../governance)
 - 🎨 [Media Kit](../media-kit/)
+- ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
   
 ---
