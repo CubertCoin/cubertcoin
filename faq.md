@@ -130,11 +130,14 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 |---|---|
 | 📘 Brand Book | [Brand Book](./brand-book/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
-| 🎨 Media Kit | [Media Kit](./media-kit/) |
 | 🏛️ Governance | [Governance](./governance) |
+| 🎨 Media Kit | [Media Kit](./media-kit/) |
+| ⚠️ Risk Disclosure | [Risk Disclosure](./risks.md) |
 | 🗺️ Roadmap | [Roadmap](./roadmap/) |
+| 🛡️ Security Policy | [Security Policy](./SECURITY.md) |
 | 📊 Tokenomics | [Tokenomics](./tokenomics/) |
 | 🤝 Contributing Guide | [Contributing Guide](./CONTRIBUTING.md) |
+
  
 ## ⚠️ Disclaimer
  
