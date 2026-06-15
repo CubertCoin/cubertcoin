@@ -69,10 +69,13 @@ Reserved for future operations, development, and strategic opportunities that be
 | Controls | Multi-signature wallet |
 | Multisig Provider | Squads Protocol |
 | Multisig Threshold | 2-of-3 |
+| Current Setup | Self-custodied across 3 separate devices (founder-controlled, transitional) |
 | Usage | Transparent and community-disclosed |
 | Focus | Long-term project sustainability |
  
 Treasury wallet address will be disclosed to the community at launch.
+
+> 🧑‍💻 **Transparency note:** Cubert Coin started as a solo project. At this stage, the multisig is self-custodied by the founder across three separate devices (including at least one hardware wallet), following multisig best practices to reduce single-device risk. As the project grows, the plan is to evolve toward additional independent signers. Regardless of who holds the keys, liquidity and team allocations are locked via immutable on-chain contracts (Streamflow) — verifiable by anyone, including the founder's own inability to bypass them before unlock.
  
 ## 🌱 Community Growth Fund — 10%
  
