@@ -25,7 +25,7 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Token Name | Cubert Coin |
 | Ticker Symbol | `$CUBE` |
 | Blockchain | Solana |
-| Token Standard | SPL Token — (Classic) |
+| Token Standard | SPL Token (Classic) |
 | Total Supply | 1,000,000,000 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
@@ -50,8 +50,8 @@ The majority of the supply is allocated to provide trading liquidity and market 
 |---|---|
 | Allocation | 700,000,000 $CUBE |
 | Status | Locked at launch |
-| Lock Provider | TBD |
-| Lock Duration | TBD |
+| Lock Provider | Streamflow Locks |
+| Lock Duration | 12 months |
 | Lock Start Date | TBD |
 | Lock End Date (Unlock) | TBD |
 | Early Withdrawal | None |
@@ -94,7 +94,7 @@ Allocated to contributors building and maintaining the Cubert Coin ecosystem.
 | Allocation | 50,000,000 $CUBE |
 | Lock Period | 6 months |
 | Vesting Schedule | 12 months after lock |
-| Vesting Provider | TBD |
+| Vesting Provider | Streamflow |
 | Lock Start Date | TBD |
 | Vesting Start Date | TBD |
 | Vesting End Date | TBD |
