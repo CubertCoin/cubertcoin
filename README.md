@@ -33,9 +33,16 @@ Cubert is one of them.
 |---|---|
 | 🌐 Website | ✅ Live at [cubertcoin.com](https://cubertcoin.com) |
 | 👥 Community | 🟡 Phase 1 — Building |
+| 📊 Tokenomics | ✅ Defined — [view details](./tokenomics) |
 | 💎 Token | ⚪ Pre-Launch |
+| ⚙️ Mint Setup       | 🟡 Standard defined (SPL Token, Classic) |
+| 🔐 Authorities     | ⚪ Pending — to be revoked upon mint creation |
+| 🏛️ Treasury Multisig | 🟡 Provider defined (Squads, 2-of-3) — not yet created |
+| 🔒 Liquidity Lock  | 🟡 Provider defined (Streamflow, 12 months) — not yet created |
+| 🔓 Team Vesting    | 🟡 Provider defined (Streamflow) — not yet created |
 | 📄 Smart Contract | ⚪ Pending |
-| 🔒 Liquidity Lock | ⚪ Pending |
+
+> Legend: ✅ Done · 🟡 In Progress / Defined · ⚪ Pending
 
 ## 🏢 Corporate Ladder
 
