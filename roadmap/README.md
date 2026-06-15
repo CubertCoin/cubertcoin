@@ -142,6 +142,8 @@ No promises. No guarantees. Just **Proof of Burnout.**
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance](../governance)
 - 🎨 [Media Kit](../media-kit/)
+- ⚠️ [Risk Disclosure](../risks.md)
+- 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
 
