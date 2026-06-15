@@ -12,10 +12,10 @@
  
 > *"This policy was reviewed during a meeting that should have been an email. It is, for once, the email."*
  
-**Filing Ref.:** SEC-001
-**Effective Date:** Upon commit to `main`
-**Version:** 1.0
-**Status:** Active 🟡
+- **Filing Ref.:** SEC-001
+- **Effective Date:** Upon commit to `main`
+- **Version:** 1.0
+- **Status:** Active 🟢
  
 This document defines how security issues, scam reports, and incident response work for the CubertCoin project — covering the GitHub repository, smart contract, official channels, and treasury infrastructure.
  
