@@ -134,9 +134,11 @@ As the project grows, the plan is to evolve toward additional independent signer
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance](./governance)
 - 🎨 [Media Kit](./media-kit)
+- ⚠️ [Risk Disclosure](./risks.md)
 - 🗺️ [Roadmap](./roadmap)
 - 📊 [Tokenomics](./tokenomics)
 - 🤝 [Contributing Guide](./CONTRIBUTING.md)
+
 
 ### Version History
  
