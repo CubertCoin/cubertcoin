@@ -14,9 +14,9 @@
 > *It governs all future meetings that should also have been emails."*
  
 **Filing Ref.:** GOV-001  
-**Effective Date:** June 2026  
+**Effective Date:** Upon commit to `main`   
 **Version:** 1.0  
-**Status:** Active 🟡
+**Status:** Active 🟢
  
 This Charter defines how CubertCoin is governed: how decisions are made, how the community participates, how priorities are set, and how this document itself can be changed.
  
