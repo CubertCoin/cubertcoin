@@ -25,9 +25,12 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Token Name | Cubert Coin |
 | Ticker Symbol | `$CUBE` |
 | Blockchain | Solana |
+| Token Standard | SPL Token — *TBD* |
 | Total Supply | 1,000,000,000 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
+| Mint Authority | To be revoked upon mint creation |
+| Freeze Authority |To be revoked upon mint creation |
 | Contract Address | TBA at launch |
  
 ## 📐 Token Allocation
@@ -47,6 +50,10 @@ The majority of the supply is allocated to provide trading liquidity and market 
 |---|---|
 | Allocation | 700,000,000 $CUBE |
 | Status | Locked at launch |
+| Lock Provider | TBD |
+| Lock Duration | TBD |
+| Lock Start Date | TBD |
+| Lock End Date (Unlock) | TBD |
 | Early Withdrawal | None |
 | Purpose | Long-term market confidence and stability |
  
@@ -60,6 +67,8 @@ Reserved for future operations, development, and strategic opportunities that be
 |---|---|
 | Allocation | 150,000,000 $CUBE |
 | Controls | Multi-signature wallet |
+| Multisig Provider | TBD |
+| Multisig Threshold | TBD |
 | Usage | Transparent and community-disclosed |
 | Focus | Long-term project sustainability |
  
@@ -85,6 +94,10 @@ Allocated to contributors building and maintaining the Cubert Coin ecosystem.
 | Allocation | 50,000,000 $CUBE |
 | Lock Period | 6 months |
 | Vesting Schedule | 12 months after lock |
+| Vesting Provider | TBD |
+| Lock Start Date | TBD |
+| Vesting Start Date | TBD |
+| Vesting End Date | TBD |
 | Access at Launch | None |
  
 > Like an unpaid internship, rewards arrive slowly. This is by design — to align contributors with the long-term success of the project, not a quick exit.
@@ -98,6 +111,34 @@ Cubert Coin is committed to operating openly. The following will be disclosed to
 - Liquidity lock proof and duration
 - Any future allocation changes, communicated in advance
 All on-chain activity is publicly verifiable on the Solana blockchain.
+
+## 🔗 On-Chain Verification
+ 
+The table below will be progressively filled in as each milestone is executed. Every item links to a verifiable on-chain transaction or contract.
+ 
+| Item | Status | Link |
+|---|---|---|
+| Token Mint | ⚪ Pending | *TBD* |
+| Mint Authority Revoked (tx) | ⚪ Pending | *TBD* |
+| Freeze Authority Revoked (tx) | ⚪ Pending | *TBD* |
+| Treasury Multisig | ⚪ Pending | *TBD* |
+| Team Vesting Contract | ⚪ Pending | *TBD* |
+| Liquidity Pool Created (tx) | ⚪ Pending | *TBD* |
+| Liquidity Lock (tx) | ⚪ Pending | *TBD* |
+| Audit / Security Scan Report | ⚪ Pending | *TBD* |
+ 
+## 🗓️ Execution Timeline
+ 
+| Milestone | Target Date |
+|---|---|
+| Mint creation (devnet test) | TBD |
+| Mint creation (mainnet) | TBD |
+| Mint & Freeze authority revoked | TBD |
+| Treasury multisig created | TBD |
+| Team vesting contract created | TBD |
+| Liquidity pool created | TBD |
+| Liquidity lock executed | TBD |
+| Security scan / audit published | TBD |
  
 ## 🧭 Guiding Principles
  
@@ -121,7 +162,7 @@ Nothing in this document constitutes financial, legal, tax, or investment advice
 Past performance does not guarantee future results. Neither Cubert nor the Corporate Survivors Department can guarantee profits, promotions, bonuses, or fewer meetings.
  
 ## 📁 Related Documents
-
+ 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
@@ -133,5 +174,5 @@ Past performance does not guarantee future results. Neither Cubert nor the Corpo
 ---
  
 **Proof of Burnout.**
-
+ 
 *Another Meeting. Another Token.*
