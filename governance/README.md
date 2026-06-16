@@ -242,6 +242,8 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
  
 - ❓ [FAQ](../faq/)
 - 📘 [Brand Book](../brand-book/)
+- 📋 [Changelog](../CHANGELOG.md)
+- ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🎨 [Media Kit](../media-kit/)
