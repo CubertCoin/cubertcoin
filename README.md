@@ -65,6 +65,7 @@ Build the largest community of Corporate Survivors on the internet.
 
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
+- 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
