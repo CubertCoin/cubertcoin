@@ -143,7 +143,7 @@ But you survived. And that means something around here.
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
-- 🏛️ [Governance](../governance)
+- 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
