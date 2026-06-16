@@ -194,7 +194,7 @@ We are Corporate Survivors. And we have the receipts.
 
 - ❓ [FAQ](../faq.md)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🏛️ [Governance](../governance)
+- 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
