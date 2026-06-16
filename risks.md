@@ -118,6 +118,7 @@ See [Security Policy](./SECURITY.md) for how to report scams, impersonation, or 
  
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
+- 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
