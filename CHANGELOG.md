@@ -98,11 +98,19 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 
 ## 📁 Related Documents
 
+- ❓ [FAQ](./faq.md)
+- 📘 [Brand Book](./brand-book)
+- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
-- 🗺️ [Roadmap](./roadmap/)
-- 🛡️ [Security Policy](./SECURITY.md)
-- ⚠️ [Risk Disclosure](./RISKS.md)
+- 👔 [Employee Handbook](./employee-handbook)
+- 🏛️ [Governance Charter](./governance)    versionado
+- 🎨 [Media Kit](./media-kit)
+- ⚠️ [Risk Disclosure](./risks.md)  versionado
+- 🗺️ [Roadmap](./roadmap) 
+- 🛡️ [Security Policy](./SECURITY.md) versionado
+- 📊 [Tokenomics](./tokenomics) 
 - 🤝 [Contributing Guide](./CONTRIBUTING.md)
+
 
 ---
 
