@@ -66,7 +66,7 @@ Build the largest community of Corporate Survivors on the internet.
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
 - 👔 [Employee Handbook](./employee-handbook)
-- 🏛️ [Governance](./governance)
+- 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
 - ⚠️ [Risk Disclosure](./risks.md)
 - 🗺️ [Roadmap](./roadmap)
