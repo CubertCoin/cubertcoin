@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Community Discussion
+    url: https://github.com/CubertCoin/cubertcoin/discussions
+    about: For general questions, ideas, and open-ended conversations with the Corporate Survivors community.
+  - name: 🛡️ Security Vulnerability
+    url: https://github.com/CubertCoin/cubertcoin/security/advisories
+    about: To report a security vulnerability privately. Do NOT use a public issue for security reports.
+  - name: 🌐 Official Website
+    url: https://www.cubertcoin.com
+    about: Visit the Corporate Intranet for official project information.
