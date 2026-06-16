@@ -193,8 +193,8 @@ We are Corporate Survivors. And we have the receipts.
 ## 📁 Related Documents
 
 - ❓ [FAQ](../faq.md)
-- 📋 [Changelog](./CHANGELOG.md)
-- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
+- 📋 [Changelog](../CHANGELOG.md)
+- ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 📄 [The Cubert Thesis](../thesis/)
 - 🏛️ [Governance Charter](../governance)
