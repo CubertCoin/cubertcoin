@@ -140,7 +140,7 @@ No promises. No guarantees. Just **Proof of Burnout.**
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🏛️ [Governance](../governance)
+- 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🛡️ [Security Policy](../SECURITY.md)
