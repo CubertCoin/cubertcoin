@@ -169,7 +169,7 @@ Past performance does not guarantee future results. Neither Cubert nor the Corpo
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🏛️ [Governance](../governance)
+- 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
