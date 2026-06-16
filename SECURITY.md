@@ -131,6 +131,8 @@ As the project grows, the plan is to evolve toward additional independent signer
  
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
+- 📋 [Changelog](./CHANGELOG.md)
+- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance)
