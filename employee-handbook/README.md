@@ -143,6 +143,7 @@ But you survived. And that means something around here.
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📄 [The Cubert Thesis](../thesis/)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
