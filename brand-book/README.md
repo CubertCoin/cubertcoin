@@ -194,6 +194,7 @@ We are Corporate Survivors. And we have the receipts.
 
 - ❓ [FAQ](../faq.md)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 📄 [The Cubert Thesis](../thesis/)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
