@@ -133,6 +133,8 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 | Document | Link |
 |---|---|
 | 📘 Brand Book | [Brand Book](./brand-book/) |
+| 📋 Changelog | [Changelog](./CHANGELOG.md) |
+| ⚖️ Code of Conduct | [Code of Conduct](./CODE_OF_CONDUCT.md) |
 | 📄 The Cubert Thesis | [The Cubert Thesis](./thesis/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
 | 🏛️ Governance Charter | [Governance](./governance/) |
