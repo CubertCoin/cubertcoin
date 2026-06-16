@@ -168,6 +168,8 @@ Past performance does not guarantee future results. Neither Cubert nor the Corpo
  
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📋 [Changelog](../CHANGELOG.md)
+- ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance Charter](../governance)
