@@ -129,6 +129,7 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 | Document | Link |
 |---|---|
 | 📘 Brand Book | [Brand Book](./brand-book/) |
+| 📄 The Cubert Thesis | [The Cubert Thesis](./thesis/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
 | 🏛️ Governance Charter| [Governance](./governance) |
 | 🎨 Media Kit | [Media Kit](./media-kit/) |
