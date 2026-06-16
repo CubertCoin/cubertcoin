@@ -189,6 +189,8 @@ We are not just a token. We are a badge of honor.
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📋 [Changelog](../CHANGELOG.md)
+- ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance Charter](../governance)
