@@ -53,6 +53,8 @@ Follow official channels for updates. No unofficial launch announcements will ev
  
 Cubert Coin is built on **Solana** — fast transactions, low fees, and a massive ecosystem. No unnecessary waiting. Unlike most performance reviews.
  
+The token uses the **SPL Token (Classic)** standard — the most widely supported, audited, and battle-tested token format on Solana.
+ 
 ### Where can I buy $CUBE?
  
 $CUBE is not available for purchase yet. The token has not launched.
@@ -67,9 +69,9 @@ When the launch happens, the official contract address will be announced exclusi
  
 ### Will new tokens be created after launch?
  
-No. The total supply of **1,000,000,000 $CUBE** is fixed and will never increase. No new tokens will ever be minted beyond the initial supply.
+No. The total supply of **1,000,000,000 $CUBE** is fixed and will never increase.
  
-This is by design — to ensure fairness, transparency, and long-term trust within the Corporate Survivors community.
+This is not just a promise — it is a technical guarantee. Immediately after the token is created, the **mint authority will be permanently revoked on-chain**. This makes it technically impossible for anyone — including the Founder — to ever create additional $CUBE tokens. The revocation transaction will be publicly verifiable on Solscan.
  
 ### What are the tokenomics?
  
@@ -82,22 +84,24 @@ This is by design — to ensure fairness, transparency, and long-term trust with
  
 - **Buy tax:** 0%
 - **Sell tax:** 0%
-- **Liquidity:** Locked at launch
-- **Team tokens:** 6-month lock + 12-month vesting schedule
+- **Liquidity:** Locked at launch via Streamflow (12-month minimum, immutable contract)
+- **Team tokens:** 6-month cliff + 12-month linear vesting via Streamflow
 For full details, see the [Tokenomics documentation](./tokenomics/).
  
 ### Is this a safe project?
  
-Cubert Coin is committed to transparency:
+Cubert Coin is committed to transparency and verifiable security mechanisms:
  
-- No hidden allocations
-- No excessive team ownership
-- No transaction taxes
-- Liquidity locked at launch
-- Team tokens on a long vesting schedule
-- Treasury managed through multi-signature controls
-- All wallet addresses will be disclosed at launch
-That said — cryptocurrency is inherently risky. Always do your own research. Nothing in this document constitutes financial advice.
+- **No hidden allocations** — all wallets and allocations are publicly disclosed
+- **No excessive team ownership** — team holds only 5%, fully vested over 18 months
+- **No transaction taxes** — 0% buy and sell tax
+- **Mint authority revoked at launch** — makes it technically impossible to create new tokens
+- **Freeze authority revoked at launch** — makes it technically impossible to freeze any holder's wallet
+- **Liquidity locked via Streamflow** — immutable smart contract, 12-month minimum; not even the Founder can withdraw early
+- **Team tokens locked via Streamflow** — 6-month cliff + 12-month linear vesting; no early access
+- **Treasury managed via Squads Protocol multisig (2-of-3)** — no single party can move funds unilaterally
+- **All wallet addresses and lock contracts disclosed at launch** — verifiable on Solscan by anyone
+That said — cryptocurrency is inherently risky. Always do your own research. Please read the full [Risk Disclosure](./RISKS.md) before acquiring $CUBE. Nothing in this document constitutes financial advice.
  
 ## 🤝 Getting Involved
  
@@ -131,14 +135,13 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 | 📘 Brand Book | [Brand Book](./brand-book/) |
 | 📄 The Cubert Thesis | [The Cubert Thesis](./thesis/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
-| 🏛️ Governance Charter| [Governance](./governance) |
+| 🏛️ Governance Charter | [Governance](./governance/) |
 | 🎨 Media Kit | [Media Kit](./media-kit/) |
-| ⚠️ Risk Disclosure | [Risk Disclosure](./risks.md) |
+| ⚠️ Risk Disclosure | [Risk Disclosure](./RISKS.md) |
 | 🗺️ Roadmap | [Roadmap](./roadmap/) |
 | 🛡️ Security Policy | [Security Policy](./SECURITY.md) |
 | 📊 Tokenomics | [Tokenomics](./tokenomics/) |
 | 🤝 Contributing Guide | [Contributing Guide](./CONTRIBUTING.md) |
-
  
 ## ⚠️ Disclaimer
  
@@ -151,9 +154,9 @@ Neither Cubert nor the Corporate Survivors Department can guarantee profits, pro
 > *"The meeting could have been an email. But we're glad you're here anyway."*
 >
 > — Management
-
+ 
 ---
  
 **Proof of Burnout.**
-
+ 
 *Another Meeting. Another Token.*
