@@ -190,7 +190,7 @@ We are not just a token. We are a badge of honor.
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🏛️ [Governance](../governance)
+- 🏛️ [Governance Charter](../governance)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
 - 🛡️ [Security Policy](../SECURITY.md)
