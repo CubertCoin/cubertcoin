@@ -65,6 +65,8 @@ Build the largest community of Corporate Survivors on the internet.
 
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
+- 📋 [Changelog](./CHANGELOG.md)
+- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance)
