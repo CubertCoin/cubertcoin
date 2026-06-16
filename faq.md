@@ -130,7 +130,7 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 |---|---|
 | 📘 Brand Book | [Brand Book](./brand-book/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
-| 🏛️ Governance | [Governance](./governance) |
+| 🏛️ Governance Charter| [Governance](./governance) |
 | 🎨 Media Kit | [Media Kit](./media-kit/) |
 | ⚠️ Risk Disclosure | [Risk Disclosure](./risks.md) |
 | 🗺️ Roadmap | [Roadmap](./roadmap/) |
