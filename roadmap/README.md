@@ -165,6 +165,8 @@ No promises. No guarantees. Just **Proof of Burnout.**
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📋 [Changelog](../CHANGELOG.md)
+- ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance Charter](../governance/)
