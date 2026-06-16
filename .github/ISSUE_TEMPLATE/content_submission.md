@@ -14,7 +14,7 @@ assignees: ''
 - [ ] Meme
 - [ ] Written content (post, article, copy)
 - [ ] Design asset
-- [ ] Video or animation concept
+- [ ] Video or animation concept (describe the idea or share an external link — GitHub does not support video uploads)
 - [ ] Community event idea
 - [ ] Translation of existing document
 - [ ] Other: ___
