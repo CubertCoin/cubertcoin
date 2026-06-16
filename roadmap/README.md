@@ -41,42 +41,58 @@ Progress is earned — not promised.
 |---|---|
 | Brand Book | ✅ |
 | Employee Handbook | ✅ |
+| The Cubert Thesis | ✅ |
+| Tokenomics Documentation | ✅ |
+| Governance Charter | ✅ |
+| Security Policy | ✅ |
+| Risk Disclosure | ✅ |
+| FAQ | ✅ |
+| Contributing Guide | ✅ |
 | Community Infrastructure (Discord, Telegram, Reddit, X) | ✅ |
 | Corporate Presence (GitHub, Instagram) | ✅ |
+| Official Website | ✅ |
+| Media Kit | ✅ |
  
 ## 🟡 L2 — Analyst `🟡 In Progress`
  
 > *Deliverables are due. The spreadsheet is watching.*
  
 **Objectives**
+- Deploy the $CUBE token to Solana mainnet
+- Establish verifiable, on-chain trust infrastructure
 - Expand the Corporate Survivors workforce
 - Strengthen community operations and engagement
-- Finalize all public-facing infrastructure before launch
 **Deliverables**
  
 | Item | Status |
 |---|---|
-| Official Website | ✅ |
-| Media Kit | ✅ |
-| Tokenomics Documentation | 🟡 |
-| Community Growth Campaigns | 🟡 |
+| Token Deployment (SPL Classic, Solana mainnet) | ⚪ |
+| Mint Authority Revoked (on-chain, verifiable) | ⚪ |
+| Freeze Authority Revoked (on-chain, verifiable) | ⚪ |
+| Treasury Multisig Setup (Squads Protocol, 2-of-3) | ⚪ |
+| Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
+| Team Vesting Deployment (Streamflow, 6-month cliff + 12-month vesting) | ⚪ |
+| Security Scan / Audit Publication | ⚪ |
+| Community Growth Campaigns (Phase 1) | 🟡 |
  
 ## 🔵 L3 — Senior Analyst `⚪ Planned`
  
-> *More spreadsheets. More responsibility. The token is actually happening.*
+> *More spreadsheets. More responsibility. People are starting to notice.*
  
 **Objectives**
-- Launch Cubert Coin to the public
-- Deploy liquidity and establish market presence
-- Expand ecosystem visibility across platforms
+- Expand ecosystem visibility and community reach
+- Activate formal governance mechanisms
+- Develop contributor recognition and engagement programs
+
 **Deliverables**
  
 | Item | Status |
 |---|---|
-| Token Launch | ⚪ |
-| Liquidity Deployment (locked) | ⚪ |
 | Community Tracker Listings (DEX, aggregators) | ⚪ |
 | Ecosystem Expansion Initiatives | ⚪ |
+| Contributor Recognition Framework | ⚪ |
+| Formal Governance Proposal Process (activation) | ⚪ |
+| Strategic Partnerships (Phase 1) | ⚪ |
  
 ## 🟠 L4 — Manager `⚪ Planned`
  
@@ -86,14 +102,17 @@ Progress is earned — not promised.
 - Increase employee engagement and retention
 - Expand organizational capabilities
 - Develop new community-driven initiatives
+- 
 **Deliverables**
  
 | Item | Status |
 |---|---|
 | Community Reward Programs | ⚪ |
-| Strategic Partnerships | ⚪ |
+| Strategic Partnerships (Phase 2) | ⚪ |
 | New Community Initiatives | ⚪ |
 | Expanded Utility Development | ⚪ |
+| Treasury Programs and Community Grants | ⚪ |
+| Exchange Listing Exploration | ⚪ |
  
 ## 🔴 L5 — Director `⚪ Planned`
  
@@ -103,13 +122,16 @@ Progress is earned — not promised.
 - Empower community participation in project direction
 - Scale organizational influence across the crypto ecosystem
 - Drive strategic, long-term ecosystem growth
+
 **Deliverables**
  
 | Item | Status |
 |---|---|
-| Governance Initiatives | ⚪ |
+| Advanced Governance Implementation | ⚪ |
+| Independent Core Contributor Multisig (expanded from solo-founder) | ⚪ |
 | Community-Led Programs | ⚪ |
 | Expanded Ecosystem Utilities | ⚪ |
+| Long-Term Sustainability Initiatives | ⚪ |
  
 ## ⭐ L6 — Executive `⚪ Planned`
  
@@ -119,6 +141,7 @@ Progress is earned — not promised.
 - Expand the Corporate Survivors movement worldwide
 - Establish long-term project sustainability
 - Define the future of Corporate Survival
+
 **Deliverables**
  
 | Item | Status |
@@ -126,6 +149,8 @@ Progress is earned — not promised.
 | Global Community Expansion | ⚪ |
 | International Awareness Campaigns | ⚪ |
 | Long-Term Ecosystem Development | ⚪ |
+ 
+> *L6 deliverables will be defined by the community. As they should be.*
  
 ## ⚠️ Corporate Notice
  
@@ -136,19 +161,21 @@ Deliverables, timelines, and objectives may be adjusted to reflect real-world co
 No promises. No guarantees. Just **Proof of Burnout.**
  
 ## 📁 Related Documents
+ 
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 🏛️ [Governance Charter](../governance)
+- 🏛️ [Governance Charter](../governance/)
 - 🎨 [Media Kit](../media-kit/)
-- ⚠️ [Risk Disclosure](../risks.md)
+- ⚠️ [Risk Disclosure](../RISKS.md)
 - 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
-
+  
 ---
  
 **Proof of Burnout.**
-
+ 
 *Another Meeting. Another Token.*
