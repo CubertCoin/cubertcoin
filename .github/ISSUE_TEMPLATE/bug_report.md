@@ -18,6 +18,8 @@ A clear and concise description of the bug.
 - [ ] Website (cubertcoin.com)
 - [ ] Discord
 - [ ] Telegram
+- [ ] Reddit
+- [ ] Instagram
 - [ ] Other: ___
 
 ### Steps to reproduce
@@ -37,3 +39,4 @@ Any other information that might help resolve this faster.
 ---
 
 > ⚠️ **Security issues should NOT be reported here.** Use the [Security Advisory](https://github.com/CubertCoin/cubertcoin/security/advisories) or the process described in [SECURITY.md](../../SECURITY.md) instead.
+
