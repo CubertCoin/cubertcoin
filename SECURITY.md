@@ -131,6 +131,7 @@ As the project grows, the plan is to evolve toward additional independent signer
  
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
+- 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
