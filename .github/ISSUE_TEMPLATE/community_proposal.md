@@ -15,8 +15,8 @@ assignees: ''
 
 ---
 
-### 1. Title
-A clear, specific title for this proposal.
+### 1. Summary
+A 1-2 sentence overview of what you are proposing and why it matters.
 
 ### 2. Problem Statement
 What issue or opportunity does this proposal address? Why does it matter to the Corporate Survivors community?
