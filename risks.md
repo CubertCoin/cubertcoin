@@ -119,7 +119,7 @@ See [Security Policy](./SECURITY.md) for how to report scams, impersonation, or 
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
 - 👔 [Employee Handbook](./employee-handbook)
-- 🏛️ [Governance](./governance)
+- 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
 - 🗺️ [Roadmap](./roadmap)
 - 🛡️ [Security Policy](./SECURITY.md)
