@@ -316,6 +316,8 @@ And that feeling — the solidarity of shared suffering, the humor that makes Mo
 
 - ❓ [FAQ](../faq.md)
 - 📘 [Brand Book](../brand-book/)
+- 📋 [Changelog](./CHANGELOG.md)
+- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 🏛️ [Governance Charter](../governance/)
 - 🎨 [Media Kit](../media-kit)
