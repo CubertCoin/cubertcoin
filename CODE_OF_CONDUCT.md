@@ -125,7 +125,7 @@ This Code of Conduct may be updated by the Founder following the Constitutional 
 - ❓ [FAQ](./faq.md)
 - 📘 [Brand Book](./brand-book)
 - 📋 [Changelog](./CHANGELOG.md)
-- 📄 [The Cubert Thesis](./thesis/)
+- 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
 - 🏛️ [Governance Charter](./governance) 
 - 🎨 [Media Kit](./media-kit)
