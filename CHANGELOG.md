@@ -21,10 +21,13 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 
 ## [Unreleased] — L2 Analyst Stage 🟡
 
+## [Unreleased] — L2 Analyst Stage 🟡
+
 ### Completed
-- Token deployed on Solana mainnet — `DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj`
-- Mint authority revoked (on-chain, verified on Solscan)
+- Token deployed on Solana mainnet — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`
+- Token metadata created on-chain (name: Cubert Coin, symbol: CUBE)
 - Freeze authority — never set upon creation
+- Mint authority — active until launch (will be revoked at token launch)
 
 ### Planned
 - Treasury multisig setup (Squads Protocol, 2-of-3)
@@ -49,17 +52,20 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - GitHub repository — Corporate Repository
 
 ### Added — Core Documentation
-- **The Cubert Thesis** (`thesis/`) — project whitepaper covering mission, culture, ecosystem, and long-term vision
+
 - **Brand Book** (`brand-book/`) — identity system, colors, typography, voice, and logo guidelines
+- **Changelog** (`CHANGELOG.md`) — full history of project decisions, releases, and milestones
+- **Code of Conduct** (`CODE_OF_CONDUCT.md`) — community standards, enforcement policy, and corporate culture guidelines
+- **Contributing Guide** (`CONTRIBUTING.md`) — guide for Corporate Survivors who want to contribute
+- **The Cubert Thesis** (`cubert-thesis/`) — project whitepaper covering mission, culture, ecosystem, and long-term vision
 - **Employee Handbook** (`employee-handbook/`) — mission, values, community structure, and corporate culture
-- **Media Kit** (`media-kit/`) — official logo assets and usage guidelines
-- **Tokenomics** (`tokenomics/`) — Financial Allocation Memorandum with full supply, allocation, vesting, and on-chain verification framework
+- **FAQ** (`faq.md`) — answers to the most common questions about the project and token
 - **Governance Charter** (`governance/`) — decision-making structure, proposal process, treasury governance, and community standards
+- **Media Kit** (`media-kit/`) — official logo assets and usage guidelines
+- **Risk Disclosure** (`RISKS.md`) — full risk considerations for anyone interacting with $CUBE
 - **Roadmap** (`roadmap/`) — Corporate Career Progression Plan (L1–L6) with deliverables and status tracking
 - **Security Policy** (`SECURITY.md`) — vulnerability reporting process, scam response, and incident management
-- **Risk Disclosure** (`RISKS.md`) — full risk considerations for anyone interacting with $CUBE
-- **FAQ** (`faq.md`) — answers to the most common questions about the project and token
-- **Contributing Guide** (`CONTRIBUTING.md`) — guide for Corporate Survivors who want to contribute
+- **Tokenomics** (`tokenomics/`) — Financial Allocation Memorandum with full supply, allocation, vesting, and on-chain verification framework
 
 ### Added — Brand Assets
 - Primary logo (`cubert-coin-primary.png`)
