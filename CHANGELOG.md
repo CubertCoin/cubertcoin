@@ -21,10 +21,12 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 
 ## [Unreleased] — L2 Analyst Stage 🟡
 
+### Completed
+- Token deployed on Solana mainnet — `DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj`
+- Mint authority revoked (on-chain, verified on Solscan)
+- Freeze authority — never set upon creation
+
 ### Planned
-- Token deployment (SPL Classic, Solana mainnet)
-- Mint authority revocation (on-chain, verifiable on Solscan)
-- Freeze authority revocation (on-chain, verifiable on Solscan)
 - Treasury multisig setup (Squads Protocol, 2-of-3)
 - Liquidity pool creation and lock (Streamflow, 12-month minimum)
 - Team vesting contract deployment (Streamflow, 6-month cliff + 12-month linear vesting)
