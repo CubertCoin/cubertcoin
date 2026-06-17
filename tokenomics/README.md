@@ -67,6 +67,7 @@ Reserved for future operations, development, and strategic opportunities that be
 | Parameter | Detail |
 |---|---|
 | Allocation | 150,000,000 $CUBE |
+| Wallet Address | `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF` |
 | Controls | Multi-signature wallet |
 | Multisig Provider | Squads Protocol |
 | Multisig Threshold | 2-of-3 |
@@ -85,6 +86,7 @@ Dedicated to expanding the Corporate Survivors ecosystem and rewarding participa
 | Parameter | Detail |
 |---|---|
 | Allocation | 100,000,000 $CUBE |
+| Wallet Address | `3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE` |
 | Usage Areas | Community campaigns, events, contests, partnerships, ecosystem expansion |
  
 The goal is to reward genuine participation and strengthen the Cubert Coin community over time.
@@ -107,13 +109,15 @@ Allocated to contributors building and maintaining the Cubert Coin ecosystem.
 > Like an unpaid internship, rewards arrive slowly. This is by design — to align contributors with the long-term success of the project, not a quick exit.
  
 ## 🔍 Transparency Commitments
- 
+
 Cubert Coin is committed to operating openly. The following will be disclosed to the community:
- 
-- Treasury wallet address
-- Team wallet address(es)
-- Liquidity lock proof and duration
+
+- Treasury wallet: `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF`
+- Community Growth Fund wallet: `3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE`
+- Team wallet address(es) — disclosed at launch
+- Liquidity lock proof and duration — disclosed at launch
 - Any future allocation changes, communicated in advance
+
 All on-chain activity is publicly verifiable on the Solana blockchain.
 
 ## 🔗 On-Chain Verification
@@ -126,7 +130,8 @@ The table below will be progressively filled in as each milestone is executed. E
 | Mint Authority Revoked | ⚪ Pending — at launch | *TBD* |
 | Freeze Authority | ✅ Never set | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
 | Token Metadata | ✅ Done | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
-| Treasury Multisig | ⚪ Pending | *TBD* |
+| Treasury Multisig | ✅ Done | [View on Squads](https://app.squads.so/squads/7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF) |
+| Community Growth Fund | ✅ Done | [View on Solscan](https://solscan.io/account/3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE) |
 | Team Vesting Contract | ⚪ Pending | *TBD* |
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
 | Liquidity Lock | ⚪ Pending | *TBD* |
@@ -139,7 +144,8 @@ The table below will be progressively filled in as each milestone is executed. E
 | Mint creation (mainnet) | ✅ June 2026 |
 | Token metadata created (on-chain) | ✅ June 2026 |
 | Freeze authority | ✅ Never set |
-| Treasury multisig created | TBD |
+| Treasury multisig created | ✅ June 2026 |
+| Community Growth Fund wallet created | ✅ June 2026 |
 | Team vesting contract created | TBD |
 | Liquidity pool created | TBD |
 | Liquidity lock executed | TBD |
