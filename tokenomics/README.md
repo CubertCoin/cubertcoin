@@ -19,7 +19,7 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 - No transaction taxes
  
 ## 💎 Token Information
- 
+
 | Item | Value |
 |---|---|
 | Token Name | Cubert Coin |
@@ -27,11 +27,12 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Blockchain | Solana |
 | Token Standard | SPL Token (Classic) |
 | Total Supply | 1,000,000,000 |
+| Decimals | 9 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
-| Mint Authority | To be revoked upon mint creation |
-| Freeze Authority |To be revoked upon mint creation |
-| Contract Address | TBA at launch |
+| Mint Authority | Revoked ✅ |
+| Freeze Authority | Never set ✅ |
+| Contract Address | `DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj` |
  
 ## 📐 Token Allocation
  
@@ -121,22 +122,21 @@ The table below will be progressively filled in as each milestone is executed. E
  
 | Item | Status | Link |
 |---|---|---|
-| Token Mint | ⚪ Pending | *TBD* |
-| Mint Authority Revoked (tx) | ⚪ Pending | *TBD* |
-| Freeze Authority Revoked (tx) | ⚪ Pending | *TBD* |
+| Token Mint | ✅ Done | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
+| Mint Authority Revoked | ✅ Done | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
+| Freeze Authority | ✅ Never set | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
 | Treasury Multisig | ⚪ Pending | *TBD* |
 | Team Vesting Contract | ⚪ Pending | *TBD* |
-| Liquidity Pool Created (tx) | ⚪ Pending | *TBD* |
-| Liquidity Lock (tx) | ⚪ Pending | *TBD* |
+| Liquidity Pool Created | ⚪ Pending | *TBD* |
+| Liquidity Lock | ⚪ Pending | *TBD* |
 | Audit / Security Scan Report | ⚪ Pending | *TBD* |
  
 ## 🗓️ Execution Timeline
  
 | Milestone | Target Date |
 |---|---|
-| Mint creation (devnet test) | TBD |
-| Mint creation (mainnet) | TBD |
-| Mint & Freeze authority revoked | TBD |
+| Mint creation (mainnet) | ✅ June 2026 |
+| Mint & Freeze authority revoked | ✅ June 2026 |
 | Treasury multisig created | TBD |
 | Team vesting contract created | TBD |
 | Liquidity pool created | TBD |
