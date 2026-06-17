@@ -30,7 +30,7 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Decimals | 9 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
-| Mint Authority | Revoked ✅ |
+| Mint Authority | Mint active until launch |
 | Freeze Authority | Never set ✅ |
 | Contract Address | `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`` |
  
