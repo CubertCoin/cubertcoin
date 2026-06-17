@@ -127,11 +127,11 @@ This Code of Conduct may be updated by the Founder following the Constitutional 
 - 📋 [Changelog](./CHANGELOG.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
-- 🏛️ [Governance Charter](./governance)    versionado
+- 🏛️ [Governance Charter](./governance) 
 - 🎨 [Media Kit](./media-kit)
-- ⚠️ [Risk Disclosure](./risks.md)  versionado
+- ⚠️ [Risk Disclosure](./risks.md) 
 - 🗺️ [Roadmap](./roadmap) 
-- 🛡️ [Security Policy](./SECURITY.md) versionado
+- 🛡️ [Security Policy](./SECURITY.md) 
 - 📊 [Tokenomics](./tokenomics) 
 - 🤝 [Contributing Guide](./CONTRIBUTING.md)
 
