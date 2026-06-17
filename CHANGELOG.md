@@ -21,8 +21,6 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 
 ## [Unreleased] — L2 Analyst Stage 🟡
 
-## [Unreleased] — L2 Analyst Stage 🟡
-
 ### Completed
 - Token deployed on Solana mainnet — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`
 - Token metadata created on-chain (name: Cubert Coin, symbol: CUBE)
