@@ -34,9 +34,9 @@ Cubert is one of them.
 | 🌐 Website | ✅ Live at [cubertcoin.com](https://cubertcoin.com) |
 | 👥 Community | 🟡 Phase 1 — Building |
 | 📊 Tokenomics | ✅ Defined — [view details](./tokenomics) |
-| 💎 Token | ✅ Live — `DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj` |
+| 💎 Token | ✅ Live — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC` |
 | ⚙️ Mint Setup | ✅ SPL Token Classic — 9 decimals |
-| 🔐 Authorities | ✅ Mint revoked · Freeze never set |
+| 🔐 Authorities | 🟡 Mint active until launch · Freeze never set |
 | 🏛️ Treasury Multisig | 🟡 Provider defined (Squads, 2-of-3) — not yet created |
 | 🔒 Liquidity Lock | 🟡 Provider defined (Streamflow, 12 months) — not yet created |
 | 🔓 Team Vesting | 🟡 Provider defined (Streamflow) — not yet created |
