@@ -103,11 +103,11 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
-- 🏛️ [Governance Charter](./governance)    versionado
+- 🏛️ [Governance Charter](./governance)   
 - 🎨 [Media Kit](./media-kit)
-- ⚠️ [Risk Disclosure](./risks.md)  versionado
+- ⚠️ [Risk Disclosure](./risks.md)  
 - 🗺️ [Roadmap](./roadmap) 
-- 🛡️ [Security Policy](./SECURITY.md) versionado
+- 🛡️ [Security Policy](./SECURITY.md) 
 - 📊 [Tokenomics](./tokenomics) 
 - 🤝 [Contributing Guide](./CONTRIBUTING.md)
 
