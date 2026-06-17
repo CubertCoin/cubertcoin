@@ -32,7 +32,7 @@ The Cubert Coin token allocation framework is designed to prioritize long-term s
 | Sell Tax | 0% |
 | Mint Authority | Revoked ✅ |
 | Freeze Authority | Never set ✅ |
-| Contract Address | `DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj` |
+| Contract Address | `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`` |
  
 ## 📐 Token Allocation
  
@@ -122,9 +122,10 @@ The table below will be progressively filled in as each milestone is executed. E
  
 | Item | Status | Link |
 |---|---|---|
-| Token Mint | ✅ Done | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
-| Mint Authority Revoked | ✅ Done | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
-| Freeze Authority | ✅ Never set | [View on Solscan](https://solscan.io/token/DUCaoE832ns2HnEXCLQ7brVoiGwR8Q1daGWuGzzwvQDj) |
+| Token Mint | ✅ Done | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
+| Mint Authority Revoked | ⚪ Pending — at launch | *TBD* |
+| Freeze Authority | ✅ Never set | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
+| Token Metadata | ✅ Done | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
 | Treasury Multisig | ⚪ Pending | *TBD* |
 | Team Vesting Contract | ⚪ Pending | *TBD* |
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
@@ -132,15 +133,17 @@ The table below will be progressively filled in as each milestone is executed. E
 | Audit / Security Scan Report | ⚪ Pending | *TBD* |
  
 ## 🗓️ Execution Timeline
- 
+
 | Milestone | Target Date |
 |---|---|
 | Mint creation (mainnet) | ✅ June 2026 |
-| Mint & Freeze authority revoked | ✅ June 2026 |
+| Token metadata created (on-chain) | ✅ June 2026 |
+| Freeze authority | ✅ Never set |
 | Treasury multisig created | TBD |
 | Team vesting contract created | TBD |
 | Liquidity pool created | TBD |
 | Liquidity lock executed | TBD |
+| Mint authority revoked | At launch |
 | Security scan / audit published | TBD |
  
 ## 🧭 Guiding Principles
