@@ -39,7 +39,7 @@ Cubert is one of them.
 | 🔐 Authorities | 🟡 Mint active until launch · Freeze never set |
 | 🏛️ Treasury Multisig | ✅ Squads Protocol, 2-of-3  — `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF` |
 | 🔒 Liquidity Lock | 🟡 Provider defined (Streamflow, 12 months) — not yet created |
-| 🔓 Team Vesting | ✅ Streamflow — [View in Streamflow](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
+| 🔓 Team Vesting | ✅ Streamflow — [view details](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
 | 📄 Smart Contract | ✅ SPL Token — no custom contract required |
 
 > Legend: ✅ Done · 🟡 In Progress / Defined · ⚪ Pending
