@@ -98,13 +98,14 @@ Allocated to contributors building and maintaining the Cubert Coin ecosystem.
 | Parameter | Detail |
 |---|---|
 | Allocation | 50,000,000 $CUBE |
-| Lock Period | 6 months |
-| Vesting Schedule | 12 months after lock |
+| Cliff Period | 6 months |
+| Vesting Schedule | 12 months linear after cliff |
 | Vesting Provider | Streamflow |
-| Lock Start Date | TBD |
-| Vesting Start Date | TBD |
-| Vesting End Date | TBD |
+| Cliff Start Date | June 2026 |
+| Vesting Start Date | December 17, 2026 |
+| Vesting End Date | December 16, 2027 |
 | Access at Launch | None |
+| Contract | [View on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
  
 > Like an unpaid internship, rewards arrive slowly. This is by design — to align contributors with the long-term success of the project, not a quick exit.
  
@@ -132,7 +133,7 @@ The table below will be progressively filled in as each milestone is executed. E
 | Token Metadata | ✅ Done | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
 | Treasury Multisig | ✅ Done | [View on Squads](https://app.squads.so/squads/7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF) |
 | Community Growth Fund | ✅ Done | [View on Solscan](https://solscan.io/account/3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE) |
-| Team Vesting Contract | ⚪ Pending | *TBD* |
+| Team Vesting Contract | ✅ Done | [View on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
 | Liquidity Lock | ⚪ Pending | *TBD* |
 | Audit / Security Scan Report | ⚪ Pending | *TBD* |
@@ -146,7 +147,7 @@ The table below will be progressively filled in as each milestone is executed. E
 | Freeze authority | ✅ Never set |
 | Treasury multisig created | ✅ June 2026 |
 | Community Growth Fund wallet created | ✅ June 2026 |
-| Team vesting contract created | TBD |
+| Team vesting contract created | ✅ June 2026 |
 | Liquidity pool created | TBD |
 | Liquidity lock executed | TBD |
 | Mint authority revoked | At launch |
