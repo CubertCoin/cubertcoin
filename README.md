@@ -34,13 +34,16 @@ Cubert is one of them.
 | 🌐 Website | ✅ Live at [cubertcoin.com](https://cubertcoin.com) |
 | 👥 Community | 🟡 Phase 1 — Building |
 | 📊 Tokenomics | ✅ Defined — [view details](./tokenomics) |
-| 💎 Token | ✅ Live — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC` |
+| 🗳️ Governance | ✅ Framework defined — [view details](./governance) |
+| ⚠️ Risk Disclosure | ✅ Published — [view details](./risk-disclosure) |
+| 💎 Token | ✅ Live — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC` — [view on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
 | ⚙️ Mint Setup | ✅ SPL Token Classic — 9 decimals |
-| 🔐 Authorities | 🟡 Mint active until launch · Freeze never set |
-| 🏛️ Treasury Multisig | ✅ Squads Protocol, 2-of-3  — `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF` |
-| 🔒 Liquidity Lock | 🟡 Provider defined (Streamflow, 12 months) — not yet created |
-| 🔓 Team Vesting | ✅ Streamflow — [view details](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
-| 📄 Smart Contract | ✅ SPL Token — no custom contract required |
+| 🔐 Authorities | 🟡 Mint authority active until launch · No freeze authority |
+| 🏛️ Treasury Multisig | ✅ Squads Protocol (2-of-3)  — `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF` — [view on Squads](https://app.squads.so/squads/7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF) |
+| 🔒 Liquidity Lock | 🟡 Provider defined (Streamflow, 12 months) — pending launch |
+| 🔓 Team Vesting | ✅ Streamflow — [view contract](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
+| 📄 Token Standard | ✅ SPL Token — no custom contract required |
+| 🛡️ Security | 🟡 Launch hardening in progress |
 
 > Legend: ✅ Done · 🟡 In Progress / Defined · ⚪ Pending
 
