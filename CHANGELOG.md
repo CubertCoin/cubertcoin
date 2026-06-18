@@ -26,11 +26,15 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - Token metadata created on-chain (name: Cubert Coin, symbol: CUBE)
 - Freeze authority — never set upon creation
 - Mint authority — active until launch (will be revoked at token launch)
+- Treasury multisig created (Squads Protocol, 2-of-3) — `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF`
+- Community Growth Fund wallet created — `3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE`
+- Treasury funded — 150,000,000 $CUBE transferred to Squads
+- Community Growth Fund funded — 100,000,000 $CUBE transferred
+- Team vesting contract created on Streamflow — 50,000,000 $CUBE, 6-month cliff + 12-month linear vesting
 
 ### Planned
-- Treasury multisig setup (Squads Protocol, 2-of-3)
 - Liquidity pool creation and lock (Streamflow, 12-month minimum)
-- Team vesting contract deployment (Streamflow, 6-month cliff + 12-month linear vesting)
+- Mint authority revoked (at launch)
 - Security scan / audit publication
 - Community growth campaigns (Phase 1)
 
