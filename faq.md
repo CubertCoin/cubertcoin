@@ -42,12 +42,13 @@ If you have ever sat through a meeting about a meeting, you are a Corporate Surv
 ## 💎 The Token
  
 ### Has the token launched?
- 
-No. $CUBE has not launched yet.
- 
-The community is being built first — because the best launches are built on culture, not hype. The token launches when Cubert earns the promotion.
- 
-Follow official channels for updates. No unofficial launch announcements will ever be made outside of verified accounts.
+
+$CUBE has been deployed on Solana mainnet — the token exists, the infrastructure is live, and everything is verifiable on-chain.
+
+However, liquidity has not been added yet. $CUBE is not available for trading until the official launch, which happens when the community is ready.
+
+Contract Address: `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`
+[View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC)
  
 ### What blockchain is $CUBE on?
  
@@ -56,16 +57,22 @@ Cubert Coin is built on **Solana** — fast transactions, low fees, and a massiv
 The token uses the **SPL Token (Classic)** standard — the most widely supported, audited, and battle-tested token format on Solana.
  
 ### Where can I buy $CUBE?
- 
-$CUBE is not available for purchase yet. The token has not launched.
- 
-When the launch happens, the official contract address will be announced exclusively through verified channels:
- 
+
+$CUBE is not available for trading yet — liquidity has not been added.
+
+The token is already live on Solana mainnet and verifiable on-chain:
+
+Contract Address: `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`
+[View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC)
+
+When liquidity goes live, the official announcement will be made exclusively through verified channels:
+
 - 🌐 [cubertcoin.com](https://www.cubertcoin.com)
 - 🐦 [X / Twitter](https://x.com/cubertcoin)
 - 💬 [Discord](https://discord.gg/UqJwHACWhz)
 - 📢 [Telegram](https://t.me/cubertcoin)
-> ⚠️ **Anti-scam notice:** Any token claiming to be $CUBE before the official announcement is a scam. Always verify the contract address through official channels before any transaction.
+
+> ⚠️ **Anti-scam notice:** Always verify the contract address through official channels before any transaction.
  
 ### Will new tokens be created after launch?
  
@@ -95,8 +102,8 @@ Cubert Coin is committed to transparency and verifiable security mechanisms:
 - **No hidden allocations** — all wallets and allocations are publicly disclosed
 - **No excessive team ownership** — team holds only 5%, fully vested over 18 months
 - **No transaction taxes** — 0% buy and sell tax
-- **Mint authority revoked at launch** — makes it technically impossible to create new tokens
-- **Freeze authority revoked at launch** — makes it technically impossible to freeze any holder's wallet
+- **Mint authority active until launch** — will be permanently revoked on-chain at launch, making it technically impossible to ever create additional $CUBE tokens
+- **Freeze authority** — never set upon token creation; no wallet can ever be frozen
 - **Liquidity locked via Streamflow** — immutable smart contract, 12-month minimum; not even the Founder can withdraw early
 - **Team tokens locked via Streamflow** — 6-month cliff + 12-month linear vesting; no early access
 - **Treasury managed via Squads Protocol multisig (2-of-3)** — no single party can move funds unilaterally
