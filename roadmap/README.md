@@ -69,13 +69,15 @@ Progress is earned — not promised.
 | Item | Status |
 |---|---|
 | Token Deployment (SPL Classic, Solana mainnet) | ✅ |
-| Mint Authority Revoked (on-chain, verifiable) | ⚪ |
 | Freeze Authority Revoked (on-chain, verifiable) | ✅ |
-| Treasury Multisig Setup (Squads Protocol, 2-of-3) | ⚪ |
-| Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
-| Team Vesting Deployment (Streamflow, 6-month cliff + 12-month vesting) | ⚪ |
-| Security Scan / Audit Publication | ⚪ |
+| Treasury Multisig Setup (Squads Protocol, 2-of-3) | ✅ |
+| Team Vesting Deployment (Streamflow, 6-month cliff + 12-month vesting) | ✅ |
+| Security Scan (RugCheck) | ✅ |
 | Community Growth Campaigns (Phase 1) | 🟡 |
+| Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
+| Mint Authority Revoked (on-chain, verifiable) | ⚪ |
+| Formal audit | ⚪ |
+
  
 ## 🔵 L3 — Senior Analyst `⚪ Planned`
  
