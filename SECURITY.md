@@ -88,11 +88,11 @@ The security of project funds and the $CUBE token itself relies on verifiable, o
  
 | Mechanism | Status | Detail |
 |-----------|--------|--------|
-| Mint Authority | ⚪ Pending | To be revoked upon mint creation |
-| Freeze Authority | ⚪ Pending | To be revoked upon mint creation |
-| Treasury Multisig | 🟡 Defined | Squads Protocol, 2-of-3 — see [Tokenomics](./tokenomics/) |
-| Liquidity Lock | 🟡 Defined | Streamflow, 12 months minimum — see [Tokenomics](./tokenomics/) |
-| Team Vesting | 🟡 Defined | Streamflow, 6-month cliff + 12-month vesting — see [Tokenomics](./tokenomics/) |
+| Mint Authority | 🟡 Active until launch | Will be revoked permanently on-chain at launch |
+| Freeze Authority | ✅ Never set | Was not set upon token creation — verified on Solscan |
+| Treasury Multisig | ✅ Live | Squads Protocol, 2-of-3 — `7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF` |
+| Team Vesting | ✅ Live | Streamflow, 6-month cliff + 12-month vesting — contract active |
+| Liquidity Lock | ⚪ Pending launch | Streamflow, 12 months minimum — executed at launch |
  
 Once executed, all of the above will be verifiable on-chain via the [On-Chain Verification table](./tokenomics/#-on-chain-verification) in the Tokenomics document — including direct links to Solscan/Solana Explorer for each contract and transaction.
  
