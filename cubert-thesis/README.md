@@ -190,16 +190,18 @@ The foundation. This is where identity is built — before the token, before the
 - Website launch
 - GitHub repository and contribution framework
 ### 📊 L2 — Analyst Stage 🟡 In Progress
- 
+
 The work nobody sees but everybody depends on.
- 
-- Token deployment (SPL Classic, Solana mainnet)
-- Mint and freeze authority revocation (on-chain, verifiable)
-- Liquidity pool creation and lock (Streamflow, 12 months)
-- Team vesting deployment (Streamflow, 6-month cliff + 12-month vesting)
-- Treasury multisig setup (Squads Protocol, 2-of-3)
-- Security scan / audit publication
-- Community growth initiatives (Phase 1)
+
+- ✅ Token deployed (SPL Classic, Solana mainnet) — `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC`
+- ✅ Freeze authority — never set upon creation
+- ✅ Treasury multisig setup (Squads Protocol, 2-of-3)
+- ✅ Team vesting deployment (Streamflow, 6-month cliff + 12-month vesting)
+- ✅ Security scan published (RugCheck)
+- 🟡 Community growth initiatives (Phase 1) — in progress
+- ⚪ Liquidity pool creation and lock (Streamflow, 12 months) — at launch
+- ⚪ Mint authority revoked — at launch
+- ⚪ Formal audit — post-launch
 ### 🧠 L3 — Senior Analyst Stage ⚪ Pending
  
 The phase where people start to notice.
