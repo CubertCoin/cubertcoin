@@ -64,6 +64,7 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - **Employee Handbook** (`employee-handbook/`) — mission, values, community structure, and corporate culture
 - **FAQ** (`faq.md`) — answers to the most common questions about the project and token
 - **Governance Charter** (`governance/`) — decision-making structure, proposal process, treasury governance, and community standards
+- **Glossary** (`GLOSSARY.md`) — 32 terms covering tokenomics, blockchain, and Cubert-specific concepts, with technical definitions and Cubert translations
 - **Media Kit** (`media-kit/`) — official logo assets and usage guidelines
 - **Risk Disclosure** (`RISKS.md`) — full risk considerations for anyone interacting with $CUBE
 - **Roadmap** (`roadmap/`) — Corporate Career Progression Plan (L1–L6) with deliverables and status tracking
