@@ -197,6 +197,7 @@ We are Corporate Survivors. And we have the receipts.
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 📄 [The Cubert Thesis](../thesis/)
+- 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
