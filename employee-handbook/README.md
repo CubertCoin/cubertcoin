@@ -93,16 +93,16 @@ Every Corporate Survivor has a place at Cubert Coin. Our community is built arou
 To ensure long-term sustainability, Cubert Coin maintains four dedicated funds. Each serves a specific operational purpose.
  
 ### 💧 Liquidity Pool
-Provides market liquidity and supports healthy trading conditions. Liquidity is locked at launch.
- 
+Provides market liquidity and supports healthy trading conditions. 700,000,000 $CUBE allocated — locked at launch via Streamflow (12 months).
+
 ### 🏛️ Corporate Treasury
-Reserved for future development, operations, and strategic opportunities. Managed through multi-signature controls.
- 
+Reserved for future development, operations, and strategic opportunities. 150,000,000 $CUBE — managed through Squads Protocol 2-of-3 multisig. ✅ Funded.
+
 ### 🌱 Community Growth Fund
-Dedicated to community initiatives, events, partnerships, and ecosystem growth. Built to support the long-term expansion of the Corporate Survivors movement.
- 
+Dedicated to community initiatives, events, partnerships, and ecosystem growth. 100,000,000 $CUBE — dedicated wallet. ✅ Funded.
+
 ### 👥 Team Allocation
-Allocated to contributors helping build and maintain the Cubert Coin ecosystem. Structured to encourage long-term commitment and sustainable development.
+Allocated to contributors helping build and maintain the Cubert Coin ecosystem. 50,000,000 $CUBE — locked via Streamflow, 6-month cliff + 12-month linear vesting. ✅ Active.
  
 > For detailed allocation percentages, lock periods, and vesting schedules, refer to the official [Tokenomics](../tokenomics/) documentation.
  
