@@ -204,7 +204,7 @@ Upon identification of a scam:
 2. Community warning issued within **2 hours** across all channels
 3. Founder reviews and issues official statement within **24 hours**
 4. Incident logged in a public registry (to be established at launch)
-> ⚠️ The official contract address will only ever be published via: [cubertcoin.com](https://www.cubertcoin.com), [@cubertcoin](https://x.com/cubertcoin) on X, the official [Discord](https://discord.gg/UqJwHACWhz), and the official [Telegram](https://t.me/cubertcoin). Any other source is unauthorized.
+> ⚠️ The official contract address is `8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC` — published exclusively via: [cubertcoin.com](https://www.cubertcoin.com), [@cubertcoin](https://x.com/cubertcoin) on X, the official [Discord](https://discord.gg/UqJwHACWhz), and the official [Telegram](https://t.me/cubertcoin). Any other source is unauthorized.
  
 ---
  
@@ -240,7 +240,7 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
  
 ## 📁 Related Documents
  
-- ❓ [FAQ](../faq/)
+- ❓ [FAQ](../faq.md/)
 - 📘 [Brand Book](../brand-book/)
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
