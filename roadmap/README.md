@@ -173,6 +173,7 @@ No promises. No guarantees. Just **Proof of Burnout.**
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance/)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../RISKS.md)
