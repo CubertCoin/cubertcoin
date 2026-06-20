@@ -319,6 +319,7 @@ And that feeling — the solidarity of shared suffering, the humor that makes Mo
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance/)
 - 🎨 [Media Kit](../media-kit)
 - ⚠️ [Risk Disclosure](../RISKS.md)
