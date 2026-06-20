@@ -135,6 +135,7 @@ As the project grows, the plan is to evolve toward additional independent signer
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
+- 📖 [Glossary](./GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
 - ⚠️ [Risk Disclosure](./risks.md)
