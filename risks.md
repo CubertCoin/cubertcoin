@@ -52,7 +52,8 @@ You are solely responsible for understanding and complying with the laws and reg
  
 As detailed in the [Tokenomics](./tokenomics/) and [Security Policy](./SECURITY.md), CubertCoin implements mechanisms intended to reduce certain risks:
  
-- Revoked mint and freeze authorities (once executed)
+- Freeze authority — never set upon token creation (verified on Solscan)
+- Mint authority — active until launch, revoked permanently on-chain at launch
 - Locked liquidity via immutable smart contracts (Streamflow)
 - Vested team allocations via immutable smart contracts (Streamflow)
 - Multisig treasury controls (Squads Protocol)
