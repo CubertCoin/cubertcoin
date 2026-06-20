@@ -147,7 +147,7 @@ Contributions are made voluntarily. No promises. No guarantees. No stock options
 - 📘 [Brand Book](./brand-book/)
 - 📋 [Changelog](./CHANGELOG.md)
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
-- 📄 [The Cubert Thesis](./thesis/)
+- 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook/)
 - 📖 [Glossary](./GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance/)
