@@ -115,6 +115,7 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
+- 📖 [Glossary](./GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance)   
 - 🎨 [Media Kit](./media-kit)
 - ⚠️ [Risk Disclosure](./risks.md)  
