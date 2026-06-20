@@ -31,11 +31,12 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 - Treasury funded — 150,000,000 $CUBE transferred to Squads
 - Community Growth Fund funded — 100,000,000 $CUBE transferred
 - Team vesting contract created on Streamflow — 50,000,000 $CUBE, 6-month cliff + 12-month linear vesting
+- Security scan published (RugCheck) — 75/100 pre-launch, all alerts resolve at launch
 
 ### Planned
 - Liquidity pool creation and lock (Streamflow, 12-month minimum)
 - Mint authority revoked (at launch)
-- Security scan / audit publication
+- Formal audit (post-launch)
 - Community growth campaigns (Phase 1)
 
 ---
