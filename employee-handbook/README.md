@@ -145,7 +145,7 @@ But you survived. And that means something around here.
 - 📘 [Brand Book](../brand-book/)
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
-- 📄 [The Cubert Thesis](../thesis/)
+- 📄 [The Cubert Thesis](../cubert-thesis/)
 - 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
