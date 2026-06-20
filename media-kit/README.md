@@ -193,6 +193,7 @@ We are not just a token. We are a badge of honor.
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
+- 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - ⚠️ [Risk Disclosure](../risks.md)
 - 🗺️ [Roadmap](../roadmap/)
