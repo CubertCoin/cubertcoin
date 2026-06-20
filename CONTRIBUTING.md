@@ -134,6 +134,22 @@ For documentation or repository changes:
 - [ ] Content aligns with the Brand Book and tone guide
 - [ ] No broken links
 - [ ] Spelling and grammar checked (we're not animals)
+
+## 📁 Related Documents
+
+- ❓ [FAQ](./faq.md)
+- 📘 [Brand Book](./brand-book/)
+- 📋 [Changelog](./CHANGELOG.md)
+- ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
+- 📄 [The Cubert Thesis](./thesis/)
+- 👔 [Employee Handbook](./employee-handbook/)
+- 📖 [Glossary](./GLOSSARY.md)
+- 🏛️ [Governance Charter](./governance/)
+- 🎨 [Media Kit](./media-kit/)
+- ⚠️ [Risk Disclosure](./RISKS.md)
+- 🗺️ [Roadmap](./roadmap/)
+- 🛡️ [Security Policy](./SECURITY.md)
+- 📊 [Tokenomics](./tokenomics/)
  
 ## ⚠️ Corporate Notice
  
