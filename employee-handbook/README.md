@@ -146,6 +146,7 @@ But you survived. And that means something around here.
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
+- 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
