@@ -48,6 +48,7 @@ Progress is earned — not promised.
 | Risk Disclosure | ✅ |
 | FAQ | ✅ |
 | Contributing Guide | ✅ |
+| Glossary | ✅ |
 | Changelog | ✅ |
 | Code of Conduct | ✅ |
 | Community Infrastructure (Discord, Telegram, Reddit, X) | ✅ |
@@ -75,7 +76,7 @@ Progress is earned — not promised.
 | Security Scan (RugCheck) | ✅ |
 | Community Growth Campaigns (Phase 1) | 🟡 |
 | Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
-| Mint Authority Revoked (on-chain, verifiable) | ⚪ |
+| Mint Authority Revoked (on-chain, verifiable — at launch) | ⚪ |
 | Formal audit | ⚪ |
 
  
