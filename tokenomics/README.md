@@ -136,7 +136,8 @@ The table below will be progressively filled in as each milestone is executed. E
 | Team Vesting Contract | ✅ Done | [View on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
 | Liquidity Lock | ⚪ Pending | *TBD* |
-| Audit / Security Scan Report | ⚪ Pending | *TBD* |
+| Security Scan (RugCheck) | ✅ Done | [View](https://rugcheck.xyz/tokens/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
+| Formal Audit | ⏸️ Planned — post launch | *TBD* |
  
 ## 🗓️ Execution Timeline
 
@@ -151,7 +152,8 @@ The table below will be progressively filled in as each milestone is executed. E
 | Liquidity pool created | TBD |
 | Liquidity lock executed | TBD |
 | Mint authority revoked | At launch |
-| Security scan / audit published | TBD |
+| Security Scan (RugCheck) | ✅ June 2026 |
+| Formal Audit | TBD |
  
 ## 🧭 Guiding Principles
  
