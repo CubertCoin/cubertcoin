@@ -43,7 +43,8 @@ Cubert is one of them.
 | 🔒 Liquidity Lock | 🟡 Provider defined (Streamflow, 12 months) — pending launch |
 | 🔓 Team Vesting | ✅ Streamflow — [view contract](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
 | 📄 Token Standard | ✅ SPL Token — no custom contract required |
-| 🛡️ Security | 🟡 Launch hardening in progress |
+| 🛡️ Security Scan | ✅ Published — [view on RugCheck](https://rugcheck.xyz/tokens/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
+| 📋 Formal Audit | ⚪ Planned — post-launch |
 
 > Legend: ✅ Done · 🟡 In Progress / Defined · ⚪ Pending
 
