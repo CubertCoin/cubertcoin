@@ -137,7 +137,7 @@ The table below will be progressively filled in as each milestone is executed. E
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
 | Liquidity Lock | ⚪ Pending | *TBD* |
 | Security Scan (RugCheck) | ✅ Done | [View](https://rugcheck.xyz/tokens/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
-| Formal Audit | ⏸️ Planned — post launch | *TBD* |
+| Formal Audit | ⚪ Pending — post launch | *TBD* |
  
 ## 🗓️ Execution Timeline
 
