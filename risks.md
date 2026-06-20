@@ -122,6 +122,7 @@ See [Security Policy](./SECURITY.md) for how to report scams, impersonation, or 
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
+- 📖 [Glossary](./GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance)
 - 🎨 [Media Kit](./media-kit)
 - 🗺️ [Roadmap](./roadmap)
