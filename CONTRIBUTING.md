@@ -135,6 +135,12 @@ For documentation or repository changes:
 - [ ] No broken links
 - [ ] Spelling and grammar checked (we're not animals)
 
+## ⚠️ Corporate Notice
+ 
+Cubert Coin is a community-driven project built around corporate culture, workplace humor, and the shared experience of surviving modern office life.
+ 
+Contributions are made voluntarily. No promises. No guarantees. No stock options.
+
 ## 📁 Related Documents
 
 - ❓ [FAQ](./faq.md)
@@ -150,12 +156,6 @@ For documentation or repository changes:
 - 🗺️ [Roadmap](./roadmap/)
 - 🛡️ [Security Policy](./SECURITY.md)
 - 📊 [Tokenomics](./tokenomics/)
- 
-## ⚠️ Corporate Notice
- 
-Cubert Coin is a community-driven project built around corporate culture, workplace humor, and the shared experience of surviving modern office life.
- 
-Contributions are made voluntarily. No promises. No guarantees. No stock options.
 
 ---
 
