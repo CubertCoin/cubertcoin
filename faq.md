@@ -137,6 +137,7 @@ Read the full [Contributing Guide](./CONTRIBUTING.md) for details on how to get 
 | ⚖️ Code of Conduct | [Code of Conduct](./CODE_OF_CONDUCT.md) |
 | 📄 The Cubert Thesis | [The Cubert Thesis](./thesis/) |
 | 👔 Employee Handbook | [Employee Handbook](./employee-handbook/) |
+| 📖 Glossary | [Glossary](./GLOSSARY.md) |
 | 🏛️ Governance Charter | [Governance](./governance/) |
 | 🎨 Media Kit | [Media Kit](./media-kit/) |
 | ⚠️ Risk Disclosure | [Risk Disclosure](./RISKS.md) |
