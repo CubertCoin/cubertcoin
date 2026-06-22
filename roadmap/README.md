@@ -77,8 +77,6 @@ Progress is earned — not promised.
 | Community Growth Campaigns (Phase 1) | 🟡 |
 | Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
 | Mint Authority Revoked (on-chain, verifiable — at launch) | ⚪ |
-| Formal audit | ⚪ |
-
  
 ## 🔵 L3 — Senior Analyst `⚪ Planned`
  
@@ -98,6 +96,7 @@ Progress is earned — not promised.
 | Contributor Recognition Framework | ⚪ |
 | Formal Governance Proposal Process (activation) | ⚪ |
 | Strategic Partnerships (Phase 1) | ⚪ |
+| Formal audit | ⚪ |
  
 ## 🟠 L4 — Manager `⚪ Planned`
  
