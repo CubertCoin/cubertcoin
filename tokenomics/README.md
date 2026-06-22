@@ -131,7 +131,7 @@ The table below will be progressively filled in as each milestone is executed. E
 | Mint Authority Revoked | ⚪ Pending — at launch | *TBD* |
 | Freeze Authority | ✅ Never set | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
 | Token Metadata | ✅ Done | [View on Solscan](https://solscan.io/token/8mxQ2UGnxeRNczWD3g2b9HURc7iudw3sYuvef8QqPtMC) |
-| Treasury Multisig | ✅ Done | [View on Squads](https://app.squads.so/squads/7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF) |
+| Treasury Multisig | ✅ Done | [View on Squads](https://app.squads.so/squads/7ay63WdfndoouyBqfXK1z5oy1s8CYoywR2ML9Aaf2cCF/home) |
 | Community Growth Fund | ✅ Done | [View on Solscan](https://solscan.io/account/3jaB8mVLAfVi9sQrfHeFQWiyixecrPEn4mVbEjmsAYzE) |
 | Team Vesting Contract | ✅ Done | [View on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/GMGb7ewNVP6FC77SyvKp1bkPNSzNCFnX8884hgNeM3rH) |
 | Liquidity Pool Created | ⚪ Pending | *TBD* |
