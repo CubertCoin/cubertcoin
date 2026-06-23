@@ -126,6 +126,7 @@ As the project grows, the plan is to evolve toward additional independent signer
 | 👽 Reddit | [Employee Forum](https://reddit.com/r/CubertCoin) |
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
+| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin) |
  
 ## 📁 Related Documents
  
