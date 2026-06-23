@@ -235,6 +235,7 @@ Emergency amendments (legal, security, or operational risks) may take effect imm
 | 👽 Reddit | [Employee Forum](https://reddit.com/r/CubertCoin) |
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
+| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin) |
  
 ---
  
