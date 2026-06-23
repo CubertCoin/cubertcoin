@@ -112,6 +112,7 @@ The only official sources for $CUBE information, the contract address, and annou
 | 👽 Reddit | [Employee Forum](https://reddit.com/r/CubertCoin) |
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
+| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin) |
  
 See [Security Policy](./SECURITY.md) for how to report scams, impersonation, or fraud.
  
