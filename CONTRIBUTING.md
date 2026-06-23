@@ -96,7 +96,7 @@ Have a question? An idea? Just want to vent about your last all-hands meeting?
 - 📢 **Telegram** — [Corporate Hotline](https://t.me/cubertcoin) for updates and announcements
 - 👽 **Reddit** — [Employee Forum](https://reddit.com/r/CubertCoin) for memes and discussion
 - 📸 **Instagram** — [Corporate Gallery](https://www.instagram.com/cubertcoin) for visual content and brand assets
-- 📝 **Paragraph** - [Corporate Memos](https://paragraph.xyz/@cubertcoin) for long-form updates and official announcements
+- 📝 **Paragraph** — [Corporate Memos](https://paragraph.xyz/@cubertcoin) for long-form updates and official announcements
 - 💬 **GitHub Discussions** — [Join here](https://github.com/CubertCoin/cubertcoin/discussions) for project-level conversations
 
 Please use GitHub Issues for actionable items (bugs, content submissions) and community channels for everything else. We have enough meetings; let's not make GitHub one too.
