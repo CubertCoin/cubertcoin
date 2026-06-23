@@ -179,6 +179,7 @@ All approved assets are available in the [`/media-kit`](../media-kit/) folder.
 | 👽 Reddit | [Employee Forum](https://reddit.com/r/CubertCoin) |
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
+| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin) |
  
 ## 📣 Brand Statement
  
