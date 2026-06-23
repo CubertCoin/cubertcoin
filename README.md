@@ -93,7 +93,7 @@ Build the largest community of Corporate Survivors on the internet.
 | 👽 Reddit | [Employee Forum](https://reddit.com/r/CubertCoin) |
 | 📸 Instagram | [Corporate Gallery](https://www.instagram.com/cubertcoin) |
 | 💻 GitHub | [Corporate Repository](https://github.com/CubertCoin/cubertcoin) |
-| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin)
+| 📝 Paragraph | [Corporate Memos](https://paragraph.xyz/@cubertcoin) |
 
 ## 🤝 Contributing
 
