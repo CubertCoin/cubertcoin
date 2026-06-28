@@ -167,16 +167,16 @@ No promises. No guarantees. Just **Proof of Burnout.**
 ## 📁 Related Documents
  
 
-- ❓ [FAQ](../faq.md)
+- ❓ [FAQ](../corporate-wiki/faq.md)
 - 📘 [Brand Book](../brand-book/)
-- 📋 [Changelog](../CHANGELOG.md)
+- 📋 [Changelog](../corporate-wiki/CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 📖 [Glossary](../GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance/)
 - 🎨 [Media Kit](../media-kit/)
-- ⚠️ [Risk Disclosure](../RISKS.md)
+- ⚠️ [Risk Disclosure](../corporate-wiki/RISKS.md)
 - 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
 - 🤝 [Contributing Guide](../CONTRIBUTING.md)
