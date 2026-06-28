@@ -193,15 +193,15 @@ We are Corporate Survivors. And we have the receipts.
  
 ## 📁 Related Documents
 
-- ❓ [FAQ](../faq.md)
+- ❓ [FAQ](../corporate-wiki/faq.md)
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 👔 [Employee Handbook](../employee-handbook/)
 - 📄 [The Cubert Thesis](../thesis/)
-- 📖 [Glossary](../GLOSSARY.md)
+- 📖 [Glossary](../corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
-- ⚠️ [Risk Disclosure](../risks.md)
+- ⚠️ [Risk Disclosure](../corporate-wiki/risks.md)
 - 🗺️ [Roadmap](../roadmap/)
 - 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
