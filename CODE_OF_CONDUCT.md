@@ -122,15 +122,15 @@ This Code of Conduct may be updated by the Founder following the Constitutional 
 
 ## 📁 Related Documents
 
-- ❓ [FAQ](./faq.md)
+- ❓ [FAQ](./corporate-wiki/faq.md)
 - 📘 [Brand Book](./brand-book)
 - 📋 [Changelog](./CHANGELOG.md)
 - 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
-- 📖 [Glossary](./GLOSSARY.md)
+- 📖 [Glossary](./corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance) 
 - 🎨 [Media Kit](./media-kit)
-- ⚠️ [Risk Disclosure](./risks.md) 
+- ⚠️ [Risk Disclosure](./corporate-wiki/risks.md) 
 - 🗺️ [Roadmap](./roadmap) 
 - 🛡️ [Security Policy](./SECURITY.md) 
 - 📊 [Tokenomics](./tokenomics) 
