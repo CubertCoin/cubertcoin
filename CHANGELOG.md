@@ -110,15 +110,15 @@ All releases are tagged against the Corporate Ladder progression (L1–L6).
 
 ## 📁 Related Documents
 
-- ❓ [FAQ](./faq.md)
+- ❓ [FAQ](./corporate-wiki/faq.md)
 - 📘 [Brand Book](./brand-book)
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook)
-- 📖 [Glossary](./GLOSSARY.md)
+- 📖 [Glossary](./corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance)   
 - 🎨 [Media Kit](./media-kit)
-- ⚠️ [Risk Disclosure](./risks.md)  
+- ⚠️ [Risk Disclosure](./corporate-wiki/risks.md)  
 - 🗺️ [Roadmap](./roadmap) 
 - 🛡️ [Security Policy](./SECURITY.md) 
 - 📊 [Tokenomics](./tokenomics) 
