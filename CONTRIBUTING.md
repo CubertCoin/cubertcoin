@@ -144,16 +144,16 @@ Contributions are made voluntarily. No promises. No guarantees. No stock options
 
 ## 📁 Related Documents
 
-- ❓ [FAQ](./faq.md)
+- ❓ [FAQ](./corporate-wiki/faq.md)
 - 📘 [Brand Book](./brand-book/)
 - 📋 [Changelog](./CHANGELOG.md)
 - ⚖️ [Code of Conduct](./CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](./cubert-thesis/)
 - 👔 [Employee Handbook](./employee-handbook/)
-- 📖 [Glossary](./GLOSSARY.md)
+- 📖 [Glossary](./corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](./governance/)
 - 🎨 [Media Kit](./media-kit/)
-- ⚠️ [Risk Disclosure](./RISKS.md)
+- ⚠️ [Risk Disclosure](./corporate-wiki/RISKS.md)
 - 🗺️ [Roadmap](./roadmap/)
 - 🛡️ [Security Policy](./SECURITY.md)
 - 📊 [Tokenomics](./tokenomics/)
