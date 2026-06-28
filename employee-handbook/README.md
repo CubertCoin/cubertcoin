@@ -141,15 +141,15 @@ But you survived. And that means something around here.
  
 ## 📁 Related Documents
 
-- ❓ [FAQ](../faq.md)
+- ❓ [FAQ](../corporate-wiki/faq.md)
 - 📘 [Brand Book](../brand-book/)
 - 📋 [Changelog](../CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../cubert-thesis/)
-- 📖 [Glossary](../GLOSSARY.md)
+- 📖 [Glossary](../corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
-- ⚠️ [Risk Disclosure](../risks.md)
+- ⚠️ [Risk Disclosure](../corporate-wiki/risks.md)
 - 🗺️ [Roadmap](../roadmap/)
 - 🛡️ [Security Policy](../SECURITY.md)
 - 📊 [Tokenomics](../tokenomics/)
