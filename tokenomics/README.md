@@ -178,13 +178,13 @@ Past performance does not guarantee future results. Neither Cubert nor the Corpo
  
 ## 📁 Related Documents
  
-- ❓ [FAQ](../faq.md)
+- ❓ [FAQ](../corporate-wiki/faq.md)
 - 📘 [Brand Book](../brand-book/)
-- 📋 [Changelog](../CHANGELOG.md)
+- 📋 [Changelog](../corporate-wiki/CHANGELOG.md)
 - ⚖️ [Code of Conduct](../CODE_OF_CONDUCT.md)
 - 📄 [The Cubert Thesis](../thesis/)
 - 👔 [Employee Handbook](../employee-handbook/)
-- 📖 [Glossary](../GLOSSARY.md)
+- 📖 [Glossary](../corporate-wiki/GLOSSARY.md)
 - 🏛️ [Governance Charter](../governance)
 - 🎨 [Media Kit](../media-kit/)
 - ⚠️ [Risk Disclosure](../risks.md)
