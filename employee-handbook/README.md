@@ -34,6 +34,11 @@ Today, Cubert Coin represents **Corporate Survivors everywhere**.
  
 > Build the largest community of Corporate Survivors on the internet.
 > **Turn burnout into belonging.**
+
+## 🔭 Our Vision
+
+> Become the most recognized community token for Corporate Survivors worldwide —
+> where workplace culture meets Web3, and burnout becomes belonging.
  
 ## 💡 What is Proof of Burnout?
  
@@ -53,6 +58,8 @@ Every spreadsheet. Every KPI. Every deadline. Every meeting that could have been
 | 🔍 Stay Transparent | Trust is built through openness and accountability — no hidden agendas. |
 | 😄 Keep Your Sense of Humor | If we cannot laugh at corporate life, we become corporate life. |
 | 🏗️ Build for the Long Term | This is a community project designed to grow responsibly, not to pump and dump. |
+| 🎭 Stay Authentic | We speak from experience, not from hype. No empty corporate buzzwords. |
+| 💪 Stay Resilient | Corporate Survivors don't quit. Neither does this project. |
  
 ## 📋 Employee Expectations
  
