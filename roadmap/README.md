@@ -106,7 +106,7 @@ Progress is earned — not promised.
 - Increase employee engagement and retention
 - Expand organizational capabilities
 - Develop new community-driven initiatives
-- 
+  
 **Deliverables**
  
 | Item | Status |
