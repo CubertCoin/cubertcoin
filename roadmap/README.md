@@ -35,6 +35,7 @@ Progress is earned — not promised.
 - Build the brand identity from the ground up
 - Establish foundational community infrastructure
 - Survive the onboarding process
+
 **Deliverables**
  
 | Item | Status |
@@ -65,6 +66,7 @@ Progress is earned — not promised.
 - Establish verifiable, on-chain trust infrastructure
 - Expand the Corporate Survivors workforce
 - Strengthen community operations and engagement
+
 **Deliverables**
  
 | Item | Status |
