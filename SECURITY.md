@@ -17,17 +17,17 @@
 **Version:** 1.0  
 **Status:** Active 🟢
  
-This document defines how security issues, scam reports, and incident response work for the CubertCoin project — covering the GitHub repository, smart contract, official channels, and treasury infrastructure.
+This document defines how security issues, scam reports, and incident response work for the CubertCoin project, covering the GitHub repository, smart contract, official channels, and treasury infrastructure.
  
 ## 📣 Reporting a Vulnerability or Security Concern
  
-If you discover a security vulnerability — in this repository, the smart contract (once deployed), or any official CubertCoin channel (e.g. a compromised Discord bot, a defaced website, a hijacked social account) — please report it responsibly.
+If you discover a security vulnerability, in this repository, the smart contract (once deployed), or any official CubertCoin channel (e.g. a compromised Discord bot, a defaced website, a hijacked social account), please report it responsibly.
  
 ### How to Report
  
 **Preferred:** Open a [private security advisory](https://github.com/CubertCoin/cubertcoin/security/advisories) on GitHub. This keeps the report private until it's resolved.
 
-> If the link above is unavailable, private vulnerability reporting may not yet be enabled for this repository — in that case, use the alternative method below.
+> If the link above is unavailable, private vulnerability reporting may not yet be enabled for this repository, in that case, use the alternative method below.
  
 **Alternative:** Contact the Founder directly via the official channels listed below. Do **not** disclose unpatched vulnerabilities publicly (Discord, Telegram, X, GitHub Issues) until the Founder has confirmed the report and a fix or mitigation is in place.
  
@@ -64,9 +64,9 @@ The official $CUBE contract address, announcements, and links will **only ever**
 | 💬 Discord | [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz) |
 | 📢 Telegram | [Corporate Hotline](https://t.me/cubertcoin) |
  
-**Any contract address, link, or announcement from any other source — including DMs, comments, or accounts impersonating the project — is unauthorized and should be treated as a scam.**
+**Any contract address, link, or announcement from any other source — including DMs, comments, or accounts impersonating the project, is unauthorized and should be treated as a scam.**
 
-> 🔑 **No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval "to verify your wallet," or ask you to connect your wallet to a site outside [cubertcoin.com](https://www.cubertcoin.com). Any message claiming otherwise — even from an account that looks like an admin or moderator — is a scam.
+> 🔑 **No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval "to verify your wallet," or ask you to connect your wallet to a site outside [cubertcoin.com](https://www.cubertcoin.com). Any message claiming otherwise — even from an account that looks like an admin or moderator, is a scam.
  
 ### How to Report a Scam
  
@@ -94,7 +94,7 @@ The security of project funds and the $CUBE token itself relies on verifiable, o
 | Team Vesting | ✅ Live | Streamflow, 6-month cliff + 12-month vesting — contract active |
 | Liquidity Lock | ⚪ Pending launch | Streamflow, 12 months minimum — executed at launch |
  
-Once executed, all of the above will be verifiable on-chain via the [On-Chain Verification table](./tokenomics/#-on-chain-verification) in the Tokenomics document — including direct links to Solscan/Solana Explorer for each contract and transaction.
+Once executed, all of the above will be verifiable on-chain via the [On-Chain Verification table](./tokenomics/#-on-chain-verification) in the Tokenomics document, including direct links to Solscan/Solana Explorer for each contract and transaction.
  
 ### Operational Security Practices
  
@@ -102,7 +102,7 @@ While the project is in its current solo-founder phase:
  
 - The Treasury multisig is self-custodied across **separate physical devices**, including at least one hardware wallet, to reduce single-device compromise risk.
 - No single device or session has unilateral control over treasury funds.
-- Liquidity and team token allocations, once locked via Streamflow, are governed by **immutable smart contracts** — not even the Founder can bypass them before the unlock date.
+- Liquidity and team token allocations, once locked via Streamflow, are governed by **immutable smart contracts**, not even the Founder can bypass them before the unlock date.
 As the project grows, the plan is to evolve toward additional independent signers on the Treasury multisig, per the [Governance Charter](./governance/), Article IV.
  
 ## 🧯 Emergency Contacts
