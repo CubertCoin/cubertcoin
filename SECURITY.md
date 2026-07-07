@@ -49,7 +49,7 @@ Responsible disclosure helps protect the community. Anyone who reports a valid i
  
 ## 🚨 Scam, Impersonation, and Fraud Reports
  
-This is the most common "security" issue a memecoin project faces — and the one most likely to affect holders directly.
+This is the most common "security" issue a memecoin project faces and the one most likely to affect holders directly.
  
 CubertCoin operates a **zero-tolerance policy** for scams, impersonation, and contract address fraud, as defined in the [Governance Charter](./governance/) (Article VI).
  
@@ -64,9 +64,9 @@ The official $CUBE contract address, announcements, and links will **only ever**
 | 💬 Discord | [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz) |
 | 📢 Telegram | [Corporate Hotline](https://t.me/cubertcoin) |
  
-**Any contract address, link, or announcement from any other source — including DMs, comments, or accounts impersonating the project, is unauthorized and should be treated as a scam.**
+**Any contract address, link, or announcement from any other source, including DMs, comments, or accounts impersonating the project, is unauthorized and should be treated as a scam.**
 
-> 🔑 **No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval "to verify your wallet," or ask you to connect your wallet to a site outside [cubertcoin.com](https://www.cubertcoin.com). Any message claiming otherwise — even from an account that looks like an admin or moderator, is a scam.
+> 🔑 **No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval "to verify your wallet," or ask you to connect your wallet to a site outside [cubertcoin.com](https://www.cubertcoin.com). Any message claiming otherwise, even from an account that looks like an admin or moderator, is a scam.
  
 ### How to Report a Scam
  
