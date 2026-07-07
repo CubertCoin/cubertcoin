@@ -95,7 +95,7 @@ Progress is earned — not promised.
  
 | Item | Status |
 |---|---|
-| Community reach 2.000+ holders / 1.000+ Discord members | ⚪ |
+| Community reach 2,000+ holders / 1,000+ Discord members | ⚪ |
 | Listed on 3+ DEX aggregators (Jupiter, DexScreener, Birdeye) | ⚪ |
 | Contributor Recognition Framework | ⚪ |
 | Formal Governance Proposal Process (activation) | ⚪ |
@@ -123,7 +123,7 @@ Progress is earned — not promised.
 | Expanded Utility Development | ⚪ |
 | Treasury Programs and Community Grants | ⚪ |
 | Pursue listing on 1+ CEX tier 2 (MEXC, Gate.io) | ⚪ |
-| Holders milestone - 10.000+ unique holders | ⚪ |
+| Holders milestone - 10,000+ unique holders | ⚪ |
 | Merch store launch | ⚪ |
  
 ## 🔴 L5 — Director `⚪ Planned`
@@ -144,7 +144,7 @@ Progress is earned — not promised.
 | Community-Led Programs | ⚪ |
 | Expanded Ecosystem Utilities | ⚪ |
 | Long-Term Sustainability Initiatives | ⚪ |
-| Holders milestone - 50.000+ unique holders | ⚪ |
+| Holders milestone - 50,000+ unique holders | ⚪ |
 | DAO structure formalized | ⚪ |
 | $CUBE sustaining $5M+ market cap for 30+ days | ⚪ |
  
