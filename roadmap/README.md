@@ -79,6 +79,8 @@ Progress is earned — not promised.
 | Community Growth Campaigns (Phase 1) | 🟡 |
 | Liquidity Pool Creation and Lock (Streamflow, 12 months) | ⚪ |
 | Mint Authority Revoked (on-chain, verifiable — at launch) | ⚪ |
+| Reach 500 unique $CUBE holders at launch | ⚪ |
+| Grow Discord to 300+ active members | ⚪ |
  
 ## 🔵 L3 — Senior Analyst `⚪ Planned`
  
@@ -93,12 +95,14 @@ Progress is earned — not promised.
  
 | Item | Status |
 |---|---|
-| Community Tracker Listings (DEX, aggregators) | ⚪ |
-| Ecosystem Expansion Initiatives | ⚪ |
+| Community reach 2.000+ holders / 1.000+ Discord members | ⚪ |
+| Listed on 3+ DEX aggregators (Jupiter, DexScreener, Birdeye) | ⚪ |
 | Contributor Recognition Framework | ⚪ |
 | Formal Governance Proposal Process (activation) | ⚪ |
-| Strategic Partnerships (Phase 1) | ⚪ |
-| Formal audit | ⚪ |
+| 2+ verified partnerships announced | ⚪ |
+| Completed pre-listing audit (Sec3 or equivalent) | ⚪ |
+| CoinGecko listing | ⚪ |
+| CoinMarketCap listing | ⚪ |
  
 ## 🟠 L4 — Manager `⚪ Planned`
  
@@ -113,12 +117,14 @@ Progress is earned — not promised.
  
 | Item | Status |
 |---|---|
-| Community Reward Programs | ⚪ |
+| First reward cycle distributed to 500+ wallets | ⚪ |
 | Strategic Partnerships (Phase 2) | ⚪ |
 | New Community Initiatives | ⚪ |
 | Expanded Utility Development | ⚪ |
 | Treasury Programs and Community Grants | ⚪ |
-| Exchange Listing Exploration | ⚪ |
+| Pursue listing on 1+ CEX tier 2 (MEXC, Gate.io) | ⚪ |
+| Holders milestone - 10.000+ unique holders | ⚪ |
+| Merch store launch | ⚪ |
  
 ## 🔴 L5 — Director `⚪ Planned`
  
@@ -133,11 +139,14 @@ Progress is earned — not promised.
  
 | Item | Status |
 |---|---|
-| Advanced Governance Implementation | ⚪ |
+| First community proposal voted and executed on-chain | ⚪ |
 | Independent Core Contributor Multisig (expanded from solo-founder) | ⚪ |
 | Community-Led Programs | ⚪ |
 | Expanded Ecosystem Utilities | ⚪ |
 | Long-Term Sustainability Initiatives | ⚪ |
+| Holders milestone - 50.000+ unique holders | ⚪ |
+| DAO structure formalized | ⚪ |
+| $CUBE sustaining $5M+ market cap for 30+ days | ⚪ |
  
 ## ⭐ L6 — Executive `⚪ Planned`
  
@@ -152,9 +161,9 @@ Progress is earned — not promised.
  
 | Item | Status |
 |---|---|
-| Global Community Expansion | ⚪ |
-| International Awareness Campaigns | ⚪ |
-| Long-Term Ecosystem Development | ⚪ |
+| Corporate Survivors present in 10+ countries | ⚪ |
+| 1 viral moment outside crypto (mainstream media or social) | ⚪ |
+| $CUBE sustaining $50M+ market cap for 90+ days | ⚪ |
  
 > *L6 deliverables will be defined by the community. As they should be.*
  
