@@ -17,13 +17,13 @@
 **Version:** 1.0   
 **Status:** Active 🟢   
 
-This Code of Conduct applies to all CubertCoin community spaces — including this GitHub repository, Discord, Telegram, Reddit, X, and any other official channel. By participating, you agree to abide by it.
+This Code of Conduct applies to all CubertCoin community spaces, including this GitHub repository, Discord, Telegram, Reddit, X, and any other official channel. By participating, you agree to abide by it.
 
 ## 🤝 Our Commitment
 
 The Corporate Survivors community is built on a simple premise: shared experience creates belonging.
 
-We are committed to making participation in CubertCoin a welcoming, respectful, and harassment-free experience for everyone — regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We are committed to making participation in CubertCoin a welcoming, respectful, and harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We do not tolerate behavior that makes people feel unsafe, unwelcome, or disrespected. This is not a corporate HR policy. It is a community standard we actually mean.
 
@@ -74,7 +74,7 @@ Scam promotion, impersonation, and fraud bypass the progressive system and resul
 
 If you witness or experience a violation of this Code of Conduct:
 
-1. **Do not engage** with the offending behavior publicly — escalation rarely helps
+1. **Do not engage** with the offending behavior publicly, escalation rarely helps
 2. **Report it** via the official Discord moderation channel, GitHub Issues, or direct message to a Core Contributor or moderator
 3. **Include** a description of the incident, the platform, and any relevant screenshots or links
 
@@ -82,7 +82,7 @@ All reports will be reviewed promptly and handled with discretion. Retaliation a
 
 ## ⚠️ Scam and Impersonation Policy
 
-CubertCoin operates a zero-tolerance policy on scams and impersonation — particularly fake contract addresses, fake team accounts, and fake giveaways.
+CubertCoin operates a zero-tolerance policy on scams and impersonation, particularly fake contract addresses, fake team accounts, and fake giveaways.
 
 > 🔑 No one from CubertCoin will ever DM you first, ask for your seed phrase, private key, or wallet approval. Any message claiming otherwise is a scam.
 
