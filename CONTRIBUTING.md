@@ -13,7 +13,7 @@
  
 > *Welcome to the department. Please fill out the onboarding form. No, the other one.*
  
-Thank you for your interest in contributing to **CubertCoin** — the first cryptocurrency built for Corporate Survivors.
+Thank you for your interest in contributing to **CubertCoin**, the first cryptocurrency built for Corporate Survivors.
  
 This document explains how you can help us build the largest community of Corporate Survivors on the internet. No prior experience required. Just a pulse and a tolerance for spreadsheets.
  
@@ -30,7 +30,7 @@ This document explains how you can help us build the largest community of Corpor
  
 ## 🤝 Code of Conduct
  
-This project runs on **Proof of Burnout** — not proof of toxicity.
+This project runs on **Proof of Burnout**, not proof of toxicity.
  
 We expect all contributors to:
  
@@ -38,7 +38,7 @@ We expect all contributors to:
 - Give constructive feedback, not performance reviews
 - Assume good intent before escalating to HR
 - Remember: we're all just trying to survive out here
-Unacceptable behavior will be handled swiftly — faster than your manager responds to Slack messages on a Friday afternoon.
+Unacceptable behavior will be handled swiftly, faster than your manager responds to Slack messages on a Friday afternoon.
  
 ## 💼 Ways to Contribute
  
@@ -90,7 +90,7 @@ To submit, open a [content submission issue](https://github.com/CubertCoin/cuber
  
 Have a question? An idea? Just want to vent about your last all-hands meeting?
 
-- ❓ **FAQ** — [Frequently Asked Questions](./faq.md) — start here if you're new
+- ❓ **FAQ** — [Frequently Asked Questions](./faq.md), start here if you're new
 - 🐦 **X / Twitter** — [Corporate Broadcast System](https://x.com/cubertcoin) for daily corporate survival content
 - 🗣️ **Discord** — [Corporate Survivors HQ](https://discord.gg/UqJwHACWhz) for real-time chat
 - 📢 **Telegram** — [Corporate Hotline](https://t.me/cubertcoin) for updates and announcements
